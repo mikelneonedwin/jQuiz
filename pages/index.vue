@@ -41,7 +41,7 @@
 
         <h1>DB Summary</h1>
         <p>For now, our available categories on the quiz are <span v-html="category"></span></p>
-        <div class="lg:w-[60%] mx-auto">
+        <div class="lg:w-[80%] mx-auto">
             <canvas ref="cav"></canvas>
         </div>
 
@@ -66,7 +66,7 @@ if(process.client){
         delete value.all;
         const keys = Object.keys(value);
         new Chart(cav.value, {
-            type: 'pie',
+            type: 'bar',
             data: {
                 labels: [...keys.map(convert)],
                 datasets: [{
