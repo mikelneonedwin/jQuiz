@@ -1,0 +1,283 @@
+[
+    {
+      "question": "What does JSX stand for?",
+      "options": ["JavaScript XML", "Java XML", "JavaScript Extension", "JavaScript Syntax Extension"],
+      "answer": "JavaScript XML"
+    },
+    {
+      "question": "Which library is commonly used with JSX to build user interfaces in React?",
+      "options": ["Vue.js", "Angular", "Ember.js", "React"],
+      "answer": "React"
+    },
+    {
+      "question": "In JSX, how do you render a variable within JSX markup?",
+      "options": ["<variable>", "{variable}", "$variable", "<{variable}>"],
+      "answer": "{variable}"
+    },
+    {
+      "question": "What is the file extension typically used for JSX files?",
+      "options": [".js", ".jsx", ".html", ".tsx"],
+      "answer": ".jsx"
+    },
+    {
+      "question": "What is the purpose of JSX?",
+      "options": ["To define JavaScript variables", "To define HTML elements within JavaScript", "To define CSS styles within JavaScript", "To define comments within JavaScript"],
+      "answer": "To define HTML elements within JavaScript"
+    },
+    {
+      "question": "In JSX, what syntax is used to create a React element?",
+      "options": ["<ReactElement>", "{ReactElement}", "[ReactElement]", "React.createElement()"],
+      "answer": "React.createElement()"
+    },
+    {
+      "question": "Which JSX expression is used to insert a line break in JSX?",
+      "options": ["<br>", "<newline>", "<lb>", "{linebreak}"],
+      "answer": "<br>"
+    },
+    {
+      "question": "In JSX, how do you add comments?",
+      "options": ["<!-- Comment -->", "// Comment", "/* Comment */", "{/* Comment */}"],
+      "answer": "{/* Comment */}"
+    },
+    {
+      "question": "What is the purpose of the 'ReactDOM.render' method in React?",
+      "options": ["To render a component to the DOM", "To define CSS styles", "To create a new React application", "To handle user events"],
+      "answer": "To render a component to the DOM"
+    },
+    {
+      "question": "In JSX, how do you use inline styles?",
+      "options": ["<style></style> tags", "Using the 'style' attribute", "By importing external CSS files", "Using JavaScript functions"],
+      "answer": "Using the 'style' attribute"
+    },
+    {
+      "question": "Which JSX element is used to render a component's children?",
+      "options": ["<content>", "<children>", "<slots>", "<>{children}</>"],
+      "answer": "<>{children}</>"
+    },
+    {
+      "question": "What is JSX transpilation?",
+      "options": ["A process of converting JSX code to plain JavaScript", "A process of optimizing React applications", "A process of compressing JSX files", "A process of generating JSX documentation"],
+      "answer": "A process of converting JSX code to plain JavaScript"
+    },
+    {
+      "question": "What is the purpose of 'props' in a React component?",
+      "options": ["To define CSS styles", "To manage state", "To pass data to a component", "To define event handlers"],
+      "answer": "To pass data to a component"
+    },
+    {
+      "question": "What is the purpose of 'state' in a React component?",
+      "options": ["To define CSS styles", "To pass data to a component", "To manage component-specific data", "To define event handlers"],
+      "answer": "To manage component-specific data"
+    },
+    {
+      "question": "In JSX, how do you use conditional rendering?",
+      "options": ["Using 'if' statements", "Using the 'render' attribute", "Using the 'condition' attribute", "Using ternary operators"],
+      "answer": "Using ternary operators"
+    },
+    {
+      "question": "What is JSX syntactic sugar?",
+      "options": ["A way to write JSX with fewer characters", "A form of JSX that tastes sweet", "A type of JSX optimization", "A way to write HTML without JSX"],
+      "answer": "A way to write JSX with fewer characters"
+    },
+    {
+      "question": "In JSX, how do you render a list of items using the 'map' function?",
+      "options": ["Using 'for' loops", "Using the 'list' attribute", "Using the 'renderList' function", "Using the 'map' method"],
+      "answer": "Using the 'map' method"
+    },
+    {
+      "question": "What is JSX interpolation?",
+      "options": ["A way to insert JSX into an HTML file", "A way to insert HTML into a JSX file", "A way to insert variables into JSX code", "A way to insert comments into JSX code"],
+      "answer": "A way to insert variables into JSX code"
+    },
+    {
+      "question": "In JSX, what is the purpose of the 'key' attribute when rendering a list of elements?",
+      "options": ["It defines the element's position in the list", "It defines a unique identifier for each element", "It sets the CSS style for each element", "It controls the element's visibility"],
+      "answer": "It defines a unique identifier for each element"
+    },
+    {
+      "question": "What is the JSX syntax for rendering a component in React?",
+      "options": ["<Component />", "Component()", "renderComponent()", "{Component}", "{Component()}"],
+      "answer": "<Component />"
+    },
+    {
+      "question": "In JSX, how do you pass props to a child component?",
+      "options": ["By defining props directly in the child component", "By using the 'props' attribute in the parent component", "By using the 'this.props' syntax in the parent component", "By using the 'children' attribute in the parent component"],
+      "answer": "By using the 'props' attribute in the parent component"
+    },
+    {
+      "question": "What is the purpose of JSX fragments?",
+      "options": ["To create a fragment of JavaScript code", "To group multiple JSX elements without a parent element", "To create a new React component", "To define a JavaScript function"],
+      "answer": "To group multiple JSX elements without a parent element"
+    },
+    {
+      "question": "In JSX, how do you render HTML entities such as '&lt;' and '&amp;'?",
+      "options": ["Use the HTML entities directly", "Use the 'entities' attribute", "Use the 'htmlEntities' function", "Use double curly braces"],
+      "answer": "Use the HTML entities directly"
+    },
+    {
+      "question": "What is the JSX syntax for rendering a self-closing tag?",
+      "options": ["<SelfClosingTag>", "<SelfClosingTag />", "<SelfClosingTag></SelfClosingTag>", "<SelfClosingTag></>"],
+      "answer": "<SelfClosingTag />"
+    },
+    {
+      "question": "What is the purpose of JSX prop spreading?",
+      "options": ["To create new props", "To merge multiple props into one", "To delete props", "To access props from a child component"],
+      "answer": "To merge multiple props into one"
+    },
+    {
+      "question": "In JSX, how do you add event handlers to elements?",
+      "options": ["Using 'if' statements", "Using the 'event' attribute", "Using the 'addEventListener' method", "Using the 'on' syntax"],
+      "answer": "Using the 'on' syntax"
+    },
+    {
+      "question": "What is the purpose of JSX 'key' prop in list rendering?",
+      "options": ["To define the element's content", "To control the element's visibility", "To define a unique identifier for each list item", "To style the list items"],
+      "answer": "To define a unique identifier for each list item"
+    },
+    {
+      "question": "What is the JSX syntax for embedding JavaScript expressions?",
+      "options": ["{{ expression }}", "{( expression )}", "{ expression }", "<% expression %>"],
+      "answer": "{ expression }"
+    },
+    {
+      "question": "In JSX, how do you render a component conditionally using 'if' statements?",
+      "options": ["<If condition={condition}>", "{if (condition) { ... }}", "{condition ? <Component /> : null}", "<RenderIf condition={condition} />"],
+      "answer": "{condition ? <Component /> : null}"
+    },
+    {
+      "question": "What is JSX prop drilling?",
+      "options": ["A technique for passing data from parent to child components", "A way to define CSS styles in JSX", "A method for handling form events", "A way to handle component state"],
+      "answer": "A technique for passing data from parent to child components"
+    },
+    {
+      "question": "In JSX, how do you create a comment that won't be rendered to the DOM?",
+      "options": ["<!-- Comment -->", "{/* Comment */}", "// Comment", "/* Comment */"],
+      "answer": "{/* Comment */}"
+    },
+    {
+      "question": "What is the purpose of JSX 'className' attribute?",
+      "options": ["To set the component's name", "To specify the component's class", "To define the component's ID", "To style the component"],
+      "answer": "To specify the component's class"
+    },
+    {
+      "question": "What is the purpose of JSX 'aria-label' attribute?",
+      "options": ["To define the component's label", "To add accessibility information to an element", "To specify the component's ID", "To create a clickable element"],
+      "answer": "To add accessibility information to an element"
+    },
+    {
+      "question": "What is the JSX syntax for rendering a component with conditional rendering?",
+      "options": ["<ConditionalComponent />", "<ConditionalComponent condition={true} />", "{condition ? <Component /> : null}", "<Component condition={true} />"],
+      "answer": "{condition ? <Component /> : null}"
+    },
+    {
+      "question": "What is the purpose of JSX 'ref' attribute?",
+      "options": ["To define the component's reference", "To specify the component's ID", "To create a clickable element", "To add accessibility information to an element"],
+      "answer": "To define the component's reference"
+    },
+    {
+      "question": "In JSX, how do you render a list of items without a parent element?",
+      "options": ["Wrap them in a <div> element", "Use the 'map' method with a wrapper element", "Use fragments or the empty angle brackets <>...</>", "It's not possible to render without a parent element"],
+      "answer": "Use fragments or the empty angle brackets <>...</>"
+    },
+    {
+      "question": "What is JSX in the context of React?",
+      "options": ["A programming language", "A markup language", "A JavaScript extension that allows HTML-like syntax", "A data storage format"],
+      "answer": "A JavaScript extension that allows HTML-like syntax"
+    },
+    {
+      "question": "What does JSX transpiler do?",
+      "options": ["Transpiles JSX code into plain JavaScript", "Transpiles JavaScript code into JSX", "Transpiles HTML code into JSX", "Transpiles CSS code into JSX"],
+      "answer": "Transpiles JSX code into plain JavaScript"
+    },
+    {
+      "question": "What is the JSX syntax for rendering a component with props?",
+      "options": ["<Component {props} />", "<Component props />", "<Component {...props} />", "<Component props={props} />"],
+      "answer": "<Component {...props} />"
+    },
+    {
+      "question": "In JSX, how do you render a component only if a condition is true?",
+      "options": ["<Component />", "{if (condition) { <Component /> }}", "{condition ? <Component /> : null}", "<ConditionalComponent condition={true} />"],
+      "answer": "{condition ? <Component /> : null}"
+    },
+    {
+      "question": "What is the purpose of the 'key' prop when rendering a list of elements in JSX?",
+      "options": ["To specify the element's ID", "To set the CSS class for each element", "To define a unique identifier for each element", "To define the element's content"],
+      "answer": "To define a unique identifier for each element"
+    },
+    {
+      "question": "In JSX, how do you render HTML tags?",
+      "options": ["<html>", "<div>", "{<html>}", "{div}", "{<div>}", "{</div>}"],
+      "answer": "<div>"
+    },
+    {
+      "question": "What is the JSX syntax for rendering a component with a specific CSS class?",
+      "options": ["<Component class='my-class' />", "<Component className='my-class' />", "<Component style='my-class' />", "<Component class('my-class') />"],
+      "answer": "<Component className='my-class' />"
+    },
+    {
+      "question": "In JSX, how do you render a list of items using the 'map' method?",
+      "options": ["Using 'for' loops", "Using the 'list' attribute", "Using the 'renderList' function", "Using the 'map' method"],
+      "answer": "Using the 'map' method"
+    },
+    {
+      "question": "What is the purpose of JSX 'dangerouslySetInnerHTML' attribute?",
+      "options": ["To set the component's HTML content safely", "To define CSS styles", "To add accessibility information to an element", "To create a clickable element"],
+      "answer": "To set the component's HTML content safely"
+    },
+    {
+      "question": "What is the JSX syntax for rendering an element with inline styles?",
+      "options": ["<div style={styles}>", "<div styles={styles}>", "<div style={styles} />", "<div inlineStyles={styles} />"],
+      "answer": "<div style={styles} />"
+    },
+    {
+      "question": "What is the JSX syntax for rendering a self-closing tag with attributes?",
+      "options": ["<SelfClosingTag>", "<SelfClosingTag />", "<SelfClosingTag></SelfClosingTag>", "<SelfClosingTag></>"],
+      "answer": "<SelfClosingTag />"
+    },
+    {
+      "question": "In JSX, how do you add inline comments?",
+      "options": ["<!-- Comment -->", "{/* Comment */}", "// Comment", "/* Comment */"],
+      "answer": "// Comment"
+    },
+    {
+      "question": "What is the purpose of JSX 'aria-hidden' attribute?",
+      "options": ["To define the component's label", "To add accessibility information to an element", "To specify the component's ID", "To create a clickable element"],
+      "answer": "To add accessibility information to an element"
+    },
+    {
+      "question": "In JSX, how do you use a variable within JSX markup?",
+      "options": ["<variable>", "{variable}", "$variable", "<{variable}>"],
+      "answer": "{variable}"
+    },
+    {
+      "question": "What is the JSX syntax for rendering an image with a 'src' attribute?",
+      "options": ["<img source='image.jpg' />", "<img src='image.jpg' />", "<image src='image.jpg' />", "<img file='image.jpg' />"],
+      "answer": "<img src='image.jpg' />"
+    },
+    {
+      "question": "What is JSX prop validation in React?",
+      "options": ["A process of validating user input", "A process of checking prop types to ensure they are as expected", "A process of optimizing React applications", "A process of transpiling JSX"],
+      "answer": "A process of checking prop types to ensure they are as expected"
+    },
+    {
+      "question": "What is the purpose of JSX 'data-' attributes?",
+      "options": ["To define the component's data structure", "To add accessibility information to an element", "To specify custom data attributes for elements", "To create a clickable element"],
+      "answer": "To specify custom data attributes for elements"
+    },
+    {
+      "question": "In JSX, how do you use conditional rendering with multiple cases?",
+      "options": ["Using 'if' statements", "Using 'switch' statements", "Using the 'render' attribute", "Using 'ternary' operators"],
+      "answer": "Using 'switch' statements"
+    },
+    {
+      "question": "What is the purpose of JSX 'aria-labelledby' attribute?",
+      "options": ["To define the component's label", "To add accessibility information to an element", "To specify the component's ID", "To create a clickable element"],
+      "answer": "To specify the component's ID"
+    },
+    {
+      "question": "In JSX, how do you escape HTML characters?",
+      "options": ["Using 'escapeHTML' function", "Using double curly braces", "Using 'dangerouslySetInnerHTML'", "Using 'htmlEscape' attribute"],
+      "answer": "Using 'dangerouslySetInnerHTML'"
+    }
+  ]
+  

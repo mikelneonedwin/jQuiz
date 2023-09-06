@@ -1,0 +1,248 @@
+[
+    {
+      "question": "What is Node.js?",
+      "options": ["A JavaScript runtime environment", "A front-end framework", "A database management system", "A markup language"],
+      "answer": "A JavaScript runtime environment"
+    },
+    {
+      "question": "Which programming language is primarily used for writing Node.js applications?",
+      "options": ["JavaScript", "Java", "Python", "C++"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What is the primary use of the 'npm' command in Node.js?",
+      "options": ["To manage and install packages", "To create HTML templates", "To define CSS styles", "To configure the compiler"],
+      "answer": "To manage and install packages"
+    },
+    {
+      "question": "What is the core module in Node.js used for working with files and directories?",
+      "options": ["'fs' (File System)", "'http' (HTTP)", "'url' (URL)", "'os' (Operating System)"],
+      "answer": "'fs' (File System)"
+    },
+    {
+      "question": "How do you import a core module in a Node.js application?",
+      "options": ["Using the 'import' keyword", "Using the 'require' function", "Using the 'include' statement", "Using the 'load' command"],
+      "answer": "Using the 'require' function"
+    },
+    {
+      "question": "What is 'callback hell' in the context of Node.js?",
+      "options": ["Excessive nesting of callback functions", "A popular Node.js framework", "A database management system", "A form of code optimization"],
+      "answer": "Excessive nesting of callback functions"
+    },
+    {
+      "question": "What is the purpose of the 'event loop' in Node.js?",
+      "options": ["To handle asynchronous operations", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To handle asynchronous operations"
+    },
+    {
+      "question": "What is 'npm' short for?",
+      "options": ["Node Package Manager", "Network Protocol Module", "Node Program Manager", "Node Package Module"],
+      "answer": "Node Package Manager"
+    },
+    {
+      "question": "Which Node.js module is used for creating web servers?",
+      "options": ["'fs' (File System)", "'http' (HTTP)", "'url' (URL)", "'os' (Operating System)"],
+      "answer": "'http' (HTTP)"
+    },
+    {
+      "question": "What is 'Express.js'?",
+      "options": ["A popular Node.js web framework", "A JavaScript library for front-end development", "A database management system", "A markup language"],
+      "answer": "A popular Node.js web framework"
+    },
+    {
+      "question": "What is 'middleware' in the context of Express.js?",
+      "options": ["Functions that handle requests before reaching route handlers", "A form of code optimization", "A type of database", "A way to create HTML templates"],
+      "answer": "Functions that handle requests before reaching route handlers"
+    },
+    {
+      "question": "Which HTTP method is typically used for fetching data in a RESTful API?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "answer": "GET"
+    },
+    {
+      "question": "What is 'npm init' used for in Node.js?",
+      "options": ["To initialize a new Node.js project", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To initialize a new Node.js project"
+    },
+    {
+      "question": "What is 'npm install' used for in Node.js?",
+      "options": ["To install packages and their dependencies", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To install packages and their dependencies"
+    },
+    {
+      "question": "What is 'npm start' used for in Node.js?",
+      "options": ["To start a Node.js application", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To start a Node.js application"
+    },
+    {
+      "question": "What is 'npm run' used for in Node.js?",
+      "options": ["To run custom scripts defined in 'package.json'", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To run custom scripts defined in 'package.json'"
+    },
+    {
+      "question": "What is the purpose of 'npm scripts' in 'package.json'?",
+      "options": ["To define custom command-line scripts", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To define custom command-line scripts"
+    },
+    {
+      "question": "What is 'async/await' in Node.js used for?",
+      "options": ["To work with asynchronous code in a synchronous-style", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To work with asynchronous code in a synchronous-style"
+    },
+    {
+      "question": "What is 'Promisify' in Node.js?",
+      "options": ["A pattern for converting callback-based functions to Promise-based functions", "A JavaScript framework", "A type of database", "A markup language"],
+      "answer": "A pattern for converting callback-based functions to Promise-based functions"
+    },
+    {
+      "question": "What is 'npm audit' used for in Node.js?",
+      "options": ["To check for and report vulnerabilities in project dependencies", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To check for and report vulnerabilities in project dependencies"
+    },
+    {
+      "question": "What is 'npx' in Node.js used for?",
+      "options": ["To run binaries from packages", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To run binaries from packages"
+    },
+    {
+      "question": "What is 'package-lock.json' used for in Node.js projects?",
+      "options": ["To lock the version of each package's dependencies", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To lock the version of each package's dependencies"
+    },
+    {
+      "question": "What is the 'exports' object used for in a Node.js module?",
+      "options": ["To make functions and variables available for use in other modules", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To make functions and variables available for use in other modules"
+    },
+    {
+      "question": "What is 'CommonJS' in Node.js?",
+      "options": ["A module system used for defining and importing modules", "A JavaScript framework", "A type of database", "A markup language"],
+      "answer": "A module system used for defining and importing modules"
+    },
+    {
+      "question": "What is 'V8' in the context of Node.js?",
+      "options": ["The JavaScript engine used by Node.js", "A JavaScript framework", "A type of database", "A markup language"],
+      "answer": "The JavaScript engine used by Node.js"
+    },
+    {
+      "question": "What is 'Buffer' in Node.js used for?",
+      "options": ["To handle binary data", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To handle binary data"
+    },
+    {
+      "question": "What is the Node.js 'util' module used for?",
+      "options": ["To provide utility functions", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To provide utility functions"
+    },
+    {
+      "question": "What is 'child_process' in Node.js used for?",
+      "options": ["To create and manage child processes", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To create and manage child processes"
+    },
+    {
+      "question": "What is 'npm link' used for in Node.js?",
+      "options": ["To create a symbolic link to a package", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To create a symbolic link to a package"
+    },
+    {
+      "question": "What is 'RESTful API' in Node.js used for?",
+      "options": ["To create web services with a standard architecture", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To create web services with a standard architecture"
+    },
+    {
+      "question": "What is 'dotenv' used for in Node.js applications?",
+      "options": ["To load environment variables from a file", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To load environment variables from a file"
+    },
+    {
+      "question": "What is the 'Cluster' module in Node.js used for?",
+      "options": ["To create a cluster of Node.js processes", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To create a cluster of Node.js processes"
+    },
+    {
+      "question": "What is 'npm publish' used for in Node.js?",
+      "options": ["To publish a package to the npm registry", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To publish a package to the npm registry"
+    },
+    {
+      "question": "What is 'npm update' used for in Node.js?",
+      "options": ["To update project dependencies to their latest versions", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To update project dependencies to their latest versions"
+    },
+    {
+      "question": "What is 'npm uninstall' used for in Node.js?",
+      "options": ["To remove a package from a project", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To remove a package from a project"
+    },
+    {
+      "question": "What is 'npm outdated' used for in Node.js?",
+      "options": ["To check for outdated project dependencies", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To check for outdated project dependencies"
+    },
+    {
+      "question": "What is 'npm prune' used for in Node.js?",
+      "options": ["To remove unused packages from 'node_modules'", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To remove unused packages from 'node_modules'"
+    },
+    {
+      "question": "What is 'npm script' used for in Node.js 'package.json'?",
+      "options": ["To define custom command-line scripts", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To define custom command-line scripts"
+    },
+    {
+      "question": "What is 'Node.js' commonly used for in server-side development?",
+      "options": ["Building scalable web applications", "Creating desktop applications", "Running JavaScript in browsers", "Editing images"],
+      "answer": "Building scalable web applications"
+    },
+    {
+      "question": "What is 'npm' commonly used for in Node.js projects?",
+      "options": ["Managing project dependencies", "Designing user interfaces", "Testing database connections", "Creating animations"],
+      "answer": "Managing project dependencies"
+    },
+    {
+      "question": "What is 'Node.js' commonly used for in real-time applications?",
+      "options": ["Handling multiple concurrent connections", "Generating PDF documents", "Analyzing data", "Playing audio files"],
+      "answer": "Handling multiple concurrent connections"
+    },
+    {
+      "question": "What is 'npm' commonly used for in front-end development?",
+      "options": ["Managing JavaScript libraries", "Creating server-side APIs", "Building databases", "Creating 3D graphics"],
+      "answer": "Managing JavaScript libraries"
+    },
+    {
+      "question": "What is 'npm' commonly used for in building automation?",
+      "options": ["Running tasks and scripts", "Creating web pages", "Generating QR codes", "Analyzing data"],
+      "answer": "Running tasks and scripts"
+    },
+    {
+      "question": "What is 'Node.js' commonly used for in IoT (Internet of Things) applications?",
+      "options": ["Controlling hardware devices", "Creating video games", "Managing user accounts", "Creating animations"],
+      "answer": "Controlling hardware devices"
+    },
+    {
+      "question": "What is 'npm' commonly used for in continuous integration and deployment (CI/CD) pipelines?",
+      "options": ["Automating build and deployment processes", "Creating 3D models", "Managing databases", "Writing documentation"],
+      "answer": "Automating build and deployment processes"
+    },
+    {
+      "question": "What is 'Node.js' commonly used for in microservices architecture?",
+      "options": ["Building and scaling microservices", "Designing user interfaces", "Analyzing data", "Playing audio files"],
+      "answer": "Building and scaling microservices"
+    },
+    {
+      "question": "What is 'npm' commonly used for in project scaffolding?",
+      "options": ["Generating project templates", "Creating 3D animations", "Managing server infrastructure", "Analyzing code coverage"],
+      "answer": "Generating project templates"
+    },
+    {
+      "question": "What is 'Node.js' commonly used for in serverless computing?",
+      "options": ["Executing functions in response to events", "Creating video games", "Managing user accounts", "Creating animations"],
+      "answer": "Executing functions in response to events"
+    },
+    {
+      "question": "What is 'npm' commonly used for in dependency version management?",
+      "options": ["Updating and resolving version conflicts", "Creating web pages", "Generating QR codes", "Analyzing data"],
+      "answer": "Updating and resolving version conflicts"
+    }
+  ]
+  

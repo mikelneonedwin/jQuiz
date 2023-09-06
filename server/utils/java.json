@@ -1,0 +1,223 @@
+[
+    {
+      "question": "What is Java?",
+      "options": ["A high-level programming language", "A database management system", "A text editor", "A markup language"],
+      "answer": "A high-level programming language"
+    },
+    {
+      "question": "Which programming paradigm does Java primarily support?",
+      "options": ["Object-oriented", "Procedural", "Functional", "Imperative"],
+      "answer": "Object-oriented"
+    },
+    {
+      "question": "What is the Java 'main' method used for?",
+      "options": ["Entry point for Java applications", "Defining classes", "Creating GUIs", "Database queries"],
+      "answer": "Entry point for Java applications"
+    },
+    {
+      "question": "How do you define a class in Java?",
+      "options": ["Using the 'class' keyword", "Using the 'type' keyword", "Using the 'define' keyword", "Using the 'function' keyword"],
+      "answer": "Using the 'class' keyword"
+    },
+    {
+      "question": "What is a 'variable' in Java?",
+      "options": ["A named container for data", "A conditional statement", "A loop", "A database table"],
+      "answer": "A named container for data"
+    },
+    {
+      "question": "What is Java's 'System.out.println()' used for?",
+      "options": ["To print output to the console", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To print output to the console"
+    },
+    {
+      "question": "What is 'if...else' used for in Java?",
+      "options": ["Conditional execution of code", "Defining classes", "Creating loops", "Styling web pages"],
+      "answer": "Conditional execution of code"
+    },
+    {
+      "question": "What is a 'for' loop used for in Java?",
+      "options": ["Iterating over a sequence of items", "Defining classes", "Creating conditions", "Manipulating databases"],
+      "answer": "Iterating over a sequence of items"
+    },
+    {
+      "question": "How do you declare a method in Java?",
+      "options": ["Using the 'void' keyword", "Using the 'method' keyword", "Using the 'declare' keyword", "Using the 'function' keyword"],
+      "answer": "Using the 'void' keyword"
+    },
+    {
+      "question": "What is 'Java Virtual Machine (JVM)'?",
+      "options": ["An execution environment for Java bytecode", "A database management system", "A web framework", "A markup language"],
+      "answer": "An execution environment for Java bytecode"
+    },
+    {
+      "question": "What is 'Java SE'?",
+      "options": ["Java Standard Edition", "Java Script Edition", "Java Special Edition", "Java Server Edition"],
+      "answer": "Java Standard Edition"
+    },
+    {
+      "question": "What is 'Java EE'?",
+      "options": ["Java Enterprise Edition", "Java Script Edition", "Java Special Edition", "Java Server Edition"],
+      "answer": "Java Enterprise Edition"
+    },
+    {
+      "question": "What is 'Java ME'?",
+      "options": ["Java Micro Edition", "Java Script Edition", "Java Special Edition", "Java Server Edition"],
+      "answer": "Java Micro Edition"
+    },
+    {
+      "question": "What is 'JavaFX'?",
+      "options": ["A Java-based framework for building rich client applications", "A text editor", "A database management system", "A markup language"],
+      "answer": "A Java-based framework for building rich client applications"
+    },
+    {
+      "question": "What is 'JAR' in Java?",
+      "options": ["Java Archive", "Java Resource", "Java Repository", "Java Runtime"],
+      "answer": "Java Archive"
+    },
+    {
+      "question": "What is 'JRE' in Java?",
+      "options": ["Java Runtime Environment", "Java Resource Editor", "Java Repository Environment", "Java Runtime Edition"],
+      "answer": "Java Runtime Environment"
+    },
+    {
+      "question": "What is 'JDK' in Java?",
+      "options": ["Java Development Kit", "Java Database Kit", "Java Documentation Kit", "Java Deployment Kit"],
+      "answer": "Java Development Kit"
+    },
+    {
+      "question": "What is 'JavaBeans'?",
+      "options": ["Reusable software components", "A database management system", "A web framework", "A markup language"],
+      "answer": "Reusable software components"
+    },
+    {
+      "question": "What is 'Java Servlet'?",
+      "options": ["A Java-based web component", "A database management system", "A text editor", "A markup language"],
+      "answer": "A Java-based web component"
+    },
+    {
+      "question": "What is 'JavaServer Pages (JSP)'?",
+      "options": ["A technology for building dynamic web pages", "A database management system", "A text editor", "A markup language"],
+      "answer": "A technology for building dynamic web pages"
+    },
+    {
+      "question": "What is 'Java Applet'?",
+      "options": ["A small application that runs within a web browser", "A database management system", "A text editor", "A markup language"],
+      "answer": "A small application that runs within a web browser"
+    },
+    {
+      "question": "What is 'JavaFX Script'?",
+      "options": ["A scripting language for building JavaFX applications", "A database management system", "A text editor", "A markup language"],
+      "answer": "A scripting language for building JavaFX applications"
+    },
+    {
+      "question": "What is 'Garbage Collection' in Java?",
+      "options": ["Automatic memory management", "A database management system", "A web framework", "A markup language"],
+      "answer": "Automatic memory management"
+    },
+    {
+      "question": "What is 'Java SecurityManager' used for?",
+      "options": ["To control access to resources", "A database management system", "A text editor", "A markup language"],
+      "answer": "To control access to resources"
+    },
+    {
+      "question": "What is 'Java Native Interface (JNI)'?",
+      "options": ["A programming framework for integrating Java with native code", "A database management system", "A web framework", "A markup language"],
+      "answer": "A programming framework for integrating Java with native code"
+    },
+    {
+      "question": "What is 'Eclipse' in the context of Java?",
+      "options": ["An integrated development environment (IDE)", "A database management system", "A text editor", "A markup language"],
+      "answer": "An integrated development environment (IDE)"
+    },
+    {
+      "question": "What is 'NetBeans' in the context of Java?",
+      "options": ["An integrated development environment (IDE)", "A database management system", "A web framework", "A markup language"],
+      "answer": "An integrated development environment (IDE)"
+    },
+    {
+      "question": "What is 'Maven' used for in Java?",
+      "options": ["A build automation tool", "A database management system", "A web framework", "A markup language"],
+      "answer": "A build automation tool"
+    },
+    {
+      "question": "What is 'Gradle' used for in Java?",
+      "options": ["A build automation tool", "A database management system", "A web framework", "A markup language"],
+      "answer": "A build automation tool"
+    },
+    {
+      "question": "What is 'Spring Framework' in Java?",
+      "options": ["A comprehensive and modular framework for building enterprise applications", "A database management system", "A web framework", "A markup language"],
+      "answer": "A comprehensive and modular framework for building enterprise applications"
+    },
+    {
+      "question": "What is 'Hibernate' used for in Java?",
+      "options": ["An object-relational mapping (ORM) framework", "A database management system", "A web framework", "A markup language"],
+      "answer": "An object-relational mapping (ORM) framework"
+    },
+    {
+      "question": "What is 'JUnit' used for in Java?",
+      "options": ["A testing framework", "A database management system", "A web framework", "A markup language"],
+      "answer": "A testing framework"
+    },
+    {
+      "question": "What is 'Log4j' used for in Java?",
+      "options": ["A logging framework", "A database management system", "A web framework", "A markup language"],
+      "answer": "A logging framework"
+    },
+    {
+      "question": "What is 'JDBC' in Java?",
+      "options": ["Java Database Connectivity", "A database management system", "A web framework", "A markup language"],
+      "answer": "Java Database Connectivity"
+    },
+    {
+      "question": "What is 'Swing' in Java?",
+      "options": ["A GUI toolkit", "A database management system", "A web framework", "A markup language"],
+      "answer": "A GUI toolkit"
+    },
+    {
+      "question": "What is 'AWT' in Java?",
+      "options": ["Abstract Window Toolkit", "A database management system", "A web framework", "A markup language"],
+      "answer": "Abstract Window Toolkit"
+    },
+    {
+      "question": "What is 'JavaFX CSS' used for?",
+      "options": ["Styling JavaFX applications", "A database management system", "A web framework", "A markup language"],
+      "answer": "Styling JavaFX applications"
+    },
+    {
+      "question": "What is 'JavaFX Scene Builder'?",
+      "options": ["A visual layout tool for JavaFX applications", "A database management system", "A web framework", "A markup language"],
+      "answer": "A visual layout tool for JavaFX applications"
+    },
+    {
+      "question": "What is 'SwingWorker' in Java used for?",
+      "options": ["A concurrent utility for Swing applications", "A database management system", "A web framework", "A markup language"],
+      "answer": "A concurrent utility for Swing applications"
+    },
+    {
+      "question": "What is 'Java Naming and Directory Interface (JNDI)' used for?",
+      "options": ["Accessing directory services", "A database management system", "A web framework", "A markup language"],
+      "answer": "Accessing directory services"
+    },
+    {
+      "question": "What is 'JPA' in Java?",
+      "options": ["Java Persistence API", "A database management system", "A web framework", "A markup language"],
+      "answer": "Java Persistence API"
+    },
+    {
+      "question": "What is 'JavaFX WebView'?",
+      "options": ["A component for embedding web content in JavaFX applications", "A database management system", "A web framework", "A markup language"],
+      "answer": "A component for embedding web content in JavaFX applications"
+    },
+    {
+      "question": "What is 'Jakarta EE'?",
+      "options": ["A set of specifications for enterprise Java", "A database management system", "A web framework", "A markup language"],
+      "answer": "A set of specifications for enterprise Java"
+    },
+    {
+      "question": "What is 'Tomcat' in Java?",
+      "options": ["An open-source web server and servlet container", "A database management system", "A web framework", "A markup language"],
+      "answer": "An open-source web server and servlet container"
+    }
+]
+  

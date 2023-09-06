@@ -1,0 +1,218 @@
+[
+    {
+      "question": "What is TypeScript?",
+      "options": ["A superset of JavaScript", "A variant of Python", "A database management system", "A markup language"],
+      "answer": "A superset of JavaScript"
+    },
+    {
+      "question": "Which programming language does TypeScript extend?",
+      "options": ["JavaScript", "Python", "Ruby", "Java"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What is the file extension for TypeScript source files?",
+      "options": [".js", ".ts", ".typescript", ".tsc"],
+      "answer": ".ts"
+    },
+    {
+      "question": "What is the purpose of TypeScript's type system?",
+      "options": ["To catch type-related errors at compile time", "To enhance performance of JavaScript code", "To simplify code syntax", "To support dynamic typing"],
+      "answer": "To catch type-related errors at compile time"
+    },
+    {
+      "question": "How do you define a variable with a specific type in TypeScript?",
+      "options": ["Using the 'let' keyword", "Using the 'var' keyword", "Using the 'type' keyword", "Using the 'const' keyword"],
+      "answer": "Using the 'type' keyword"
+    },
+    {
+      "question": "Which keyword is used to declare a function with a specific return type in TypeScript?",
+      "options": ["func", "return", "fn", "function"],
+      "answer": "function"
+    },
+    {
+      "question": "What is the 'any' type in TypeScript used for?",
+      "options": ["To represent any data type", "To define an array of values", "To specify a specific type", "To indicate an undefined type"],
+      "answer": "To represent any data type"
+    },
+    {
+      "question": "What is the purpose of TypeScript interfaces?",
+      "options": ["To define the structure of an object", "To create loops in code", "To include external libraries", "To write asynchronous code"],
+      "answer": "To define the structure of an object"
+    },
+    {
+      "question": "How do you declare an array of numbers in TypeScript?",
+      "options": ["let arr: [];", "let arr: number[];", "let arr: Array;", "let arr: int[];"],
+      "answer": "let arr: number[];"
+    },
+    {
+      "question": "What is TypeScript's 'tsconfig.json' file used for?",
+      "options": ["To configure TypeScript compiler settings", "To define CSS styles", "To create HTML templates", "To store API keys"],
+      "answer": "To configure TypeScript compiler settings"
+    },
+    {
+      "question": "What is the purpose of TypeScript decorators?",
+      "options": ["To add metadata to classes and class members", "To create loops in code", "To include external libraries", "To define CSS styles"],
+      "answer": "To add metadata to classes and class members"
+    },
+    {
+      "question": "Which keyword is used to indicate that a variable can be assigned a value of 'null' or its declared type?",
+      "options": ["undefined", "nullable", "nullish", "null"],
+      "answer": "null"
+    },
+    {
+      "question": "What is TypeScript's 'strict' mode?",
+      "options": ["A compiler option that enforces stricter type checking", "A way to disable type checking", "A tool for debugging", "A JavaScript feature"],
+      "answer": "A compiler option that enforces stricter type checking"
+    },
+    {
+      "question": "What is the purpose of TypeScript generics?",
+      "options": ["To create reusable functions and classes with dynamic types", "To define CSS styles", "To include external libraries", "To write asynchronous code"],
+      "answer": "To create reusable functions and classes with dynamic types"
+    },
+    {
+      "question": "What is the TypeScript 'readonly' modifier used for?",
+      "options": ["To make a property or variable immutable", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To make a property or variable immutable"
+    },
+    {
+      "question": "What is the TypeScript 'as' keyword used for in type assertions?",
+      "options": ["To cast a value to a specified type", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To cast a value to a specified type"
+    },
+    {
+      "question": "Which TypeScript data type is used to represent a value that may not be present?",
+      "options": ["null", "undefined", "optional", "unknown"],
+      "answer": "undefined"
+    },
+    {
+      "question": "What is the purpose of TypeScript's 'namespace' feature?",
+      "options": ["To group related code into named containers", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To group related code into named containers"
+    },
+    {
+      "question": "What is the TypeScript 'import' statement used for?",
+      "options": ["To include code from external modules or files", "To define CSS styles", "To create loops in code", "To configure the compiler"],
+      "answer": "To include code from external modules or files"
+    },
+    {
+      "question": "What is TypeScript's 'Tuple' type used for?",
+      "options": ["To represent an array with a fixed number of elements", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent an array with a fixed number of elements"
+    },
+    {
+      "question": "What is TypeScript's 'type assertion' used for?",
+      "options": ["To tell the compiler that a value should be treated as a specific type", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To tell the compiler that a value should be treated as a specific type"
+    },
+    {
+      "question": "Which TypeScript data type is used to represent a value that can be of multiple types?",
+      "options": ["union", "intersection", "tuple", "array"],
+      "answer": "union"
+    },
+    {
+      "question": "What is TypeScript's 'enum' used for?",
+      "options": ["To define a set of named constant values", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To define a set of named constant values"
+    },
+    {
+      "question": "What is the purpose of TypeScript's 'never' type?",
+      "options": ["To represent a value that never occurs", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent a value that never occurs"
+    },
+    {
+      "question": "What does the TypeScript 'extends' keyword signify in the context of generics?",
+      "options": ["To specify a constraint on a generic type parameter", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To specify a constraint on a generic type parameter"
+    },
+    {
+      "question": "What is TypeScript's 'type alias' used for?",
+      "options": ["To create custom names for existing types", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To create custom names for existing types"
+    },
+    {
+      "question": "What is the purpose of TypeScript's 'interface'?",
+      "options": ["To define a contract for objects and classes", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To define a contract for objects and classes"
+    },
+    {
+      "question": "What is TypeScript's 'async' and 'await' used for?",
+      "options": ["To work with asynchronous code and promises", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To work with asynchronous code and promises"
+    },
+    {
+      "question": "What is TypeScript's 'never' type used for?",
+      "options": ["To represent a value that never occurs", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent a value that never occurs"
+    },
+    {
+      "question": "What is the TypeScript 'super' keyword used for?",
+      "options": ["To call a method on the parent class", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To call a method on the parent class"
+    },
+    {
+      "question": "What is TypeScript's 'unknown' type used for?",
+      "options": ["To represent a value with an unknown type", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent a value with an unknown type"
+    },
+    {
+      "question": "What is TypeScript's 'namespace' feature used for?",
+      "options": ["To group related code into named containers", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To group related code into named containers"
+    },
+    {
+      "question": "What is the TypeScript 'constructor' keyword used for?",
+      "options": ["To define a constructor method in a class", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To define a constructor method in a class"
+    },
+    {
+      "question": "What is TypeScript's 'namespace' feature used for?",
+      "options": ["To group related code into named containers", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To group related code into named containers"
+    },
+    {
+      "question": "What is TypeScript's 'type assertion' used for?",
+      "options": ["To tell the compiler that a value should be treated as a specific type", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To tell the compiler that a value should be treated as a specific type"
+    },
+    {
+      "question": "What is the TypeScript 'never' type used for?",
+      "options": ["To represent a value that never occurs", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent a value that never occurs"
+    },
+    {
+      "question": "What does the TypeScript 'extends' keyword signify in the context of generics?",
+      "options": ["To specify a constraint on a generic type parameter", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To specify a constraint on a generic type parameter"
+    },
+    {
+      "question": "What is TypeScript's 'type alias' used for?",
+      "options": ["To create custom names for existing types", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To create custom names for existing types"
+    },
+    {
+      "question": "What is the purpose of TypeScript's 'interface'?",
+      "options": ["To define a contract for objects and classes", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To define a contract for objects and classes"
+    },
+    {
+      "question": "What is TypeScript's 'async' and 'await' used for?",
+      "options": ["To work with asynchronous code and promises", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To work with asynchronous code and promises"
+    },
+    {
+      "question": "What is TypeScript's 'never' type used for?",
+      "options": ["To represent a value that never occurs", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent a value that never occurs"
+    },
+    {
+      "question": "What is the TypeScript 'super' keyword used for?",
+      "options": ["To call a method on the parent class", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To call a method on the parent class"
+    },
+    {
+      "question": "What is TypeScript's 'unknown' type used for?",
+      "options": ["To represent a value with an unknown type", "To define CSS styles", "To create loops in code", "To include external libraries"],
+      "answer": "To represent a value with an unknown type"
+    }
+  ]
+  

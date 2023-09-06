@@ -1,0 +1,228 @@
+[
+    {
+      "question": "What is Python?",
+      "options": ["A high-level programming language", "A database management system", "A text editor", "A markup language"],
+      "answer": "A high-level programming language"
+    },
+    {
+      "question": "Which programming paradigm does Python primarily support?",
+      "options": ["Object-oriented", "Procedural", "Functional", "Imperative"],
+      "answer": "Object-oriented"
+    },
+    {
+      "question": "What is Python's 'print()' function used for?",
+      "options": ["To display output", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To display output"
+    },
+    {
+      "question": "How do you define a function in Python?",
+      "options": ["Using the 'def' keyword", "Using the 'function' keyword", "Using the 'func' keyword", "Using the 'define' keyword"],
+      "answer": "Using the 'def' keyword"
+    },
+    {
+      "question": "What is an 'if' statement used for in Python?",
+      "options": ["Conditional execution of code", "Defining functions", "Creating loops", "Styling web pages"],
+      "answer": "Conditional execution of code"
+    },
+    {
+      "question": "What is a 'for' loop used for in Python?",
+      "options": ["Iterating over a sequence of items", "Defining functions", "Creating conditions", "Manipulating databases"],
+      "answer": "Iterating over a sequence of items"
+    },
+    {
+      "question": "What is the purpose of Python's 'range()' function?",
+      "options": ["To generate a sequence of numbers", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To generate a sequence of numbers"
+    },
+    {
+      "question": "How do you create a list in Python?",
+      "options": ["Using square brackets", "Using curly braces", "Using parentheses", "Using angle brackets"],
+      "answer": "Using square brackets"
+    },
+    {
+      "question": "What is Python's 'append()' method used for with lists?",
+      "options": ["To add an element to the end of the list", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To add an element to the end of the list"
+    },
+    {
+      "question": "What is Python's 'len()' function used for?",
+      "options": ["To get the length of a sequence", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To get the length of a sequence"
+    },
+    {
+      "question": "What is 'Python Package Index (PyPI)'?",
+      "options": ["A repository of Python packages", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "A repository of Python packages"
+    },
+    {
+      "question": "What does 'PEP' stand for in Python's community?",
+      "options": ["Python Enhancement Proposal", "Python Enhancement Program", "Python Extended Package", "Python Error Prevention"],
+      "answer": "Python Enhancement Proposal"
+    },
+    {
+      "question": "What is the purpose of 'virtualenv' in Python?",
+      "options": ["To create isolated Python environments", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To create isolated Python environments"
+    },
+    {
+      "question": "What is Python's 'pip' used for?",
+      "options": ["To install Python packages", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To install Python packages"
+    },
+    {
+      "question": "What is 'Django' in Python used for?",
+      "options": ["A web framework", "A text editor", "A database management system", "A markup language"],
+      "answer": "A web framework"
+    },
+    {
+      "question": "What is 'Flask' in Python used for?",
+      "options": ["A micro web framework", "A front-end framework", "A text editor", "A markup language"],
+      "answer": "A micro web framework"
+    },
+    {
+      "question": "What is Python's 'dictionary' used for?",
+      "options": ["To store key-value pairs", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To store key-value pairs"
+    },
+    {
+      "question": "What is 'PEP 8' in Python?",
+      "options": ["Style guide for writing Python code", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "Style guide for writing Python code"
+    },
+    {
+      "question": "What is Python's 'tuple'?",
+      "options": ["An immutable sequence", "A mutable list", "A type of function", "A database management system"],
+      "answer": "An immutable sequence"
+    },
+    {
+      "question": "What is Python's 'set' used for?",
+      "options": ["To store unique elements", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To store unique elements"
+    },
+    {
+      "question": "What is 'PEP 20' in Python known as?",
+      "options": ["The 'Zen of Python'", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "The 'Zen of Python'"
+    },
+    {
+      "question": "What is Python's 'lambda' function used for?",
+      "options": ["To create anonymous functions", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To create anonymous functions"
+    },
+    {
+      "question": "What is Python's 'import' statement used for?",
+      "options": ["To include modules in a Python script", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "To include modules in a Python script"
+    },
+    {
+      "question": "What is Python's 'try...except' block used for?",
+      "options": ["Error handling and exception catching", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Error handling and exception catching"
+    },
+    {
+      "question": "What is 'List Comprehension' in Python?",
+      "options": ["A concise way to create lists", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "A concise way to create lists"
+    },
+    {
+      "question": "What is Python's 'with' statement used for?",
+      "options": ["Resource management and context handling", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Resource management and context handling"
+    },
+    {
+      "question": "What is Python's 'os' module used for?",
+      "options": ["Operating system interaction", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Operating system interaction"
+    },
+    {
+      "question": "What is 'PEP 257' in Python?",
+      "options": ["Docstring conventions", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "Docstring conventions"
+    },
+    {
+      "question": "What is Python's 'asyncio' library used for?",
+      "options": ["Asynchronous I/O, event loops, and coroutines", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Asynchronous I/O, event loops, and coroutines"
+    },
+    {
+      "question": "What is 'pickle' in Python used for?",
+      "options": ["Serialization and deserialization of Python objects", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Serialization and deserialization of Python objects"
+    },
+    {
+      "question": "What is 'unittest' in Python used for?",
+      "options": ["A testing framework", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "A testing framework"
+    },
+    {
+      "question": "What is Python's 'os.path' module used for?",
+      "options": ["Path manipulation and file operations", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Path manipulation and file operations"
+    },
+    {
+      "question": "What is Python's 'datetime' module used for?",
+      "options": ["Working with dates and times", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Working with dates and times"
+    },
+    {
+      "question": "What is 'virtualenvwrapper' in Python used for?",
+      "options": ["A set of tools to manage virtual environments", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "A set of tools to manage virtual environments"
+    },
+    {
+      "question": "What is 'pipenv' in Python used for?",
+      "options": ["Dependency management for Python projects", "To define CSS styles", "To create loops in code", "To manage database connections"],
+      "answer": "Dependency management for Python projects"
+    },
+    {
+      "question": "What is 'PyCharm'?",
+      "options": ["An integrated development environment (IDE) for Python", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "An integrated development environment (IDE) for Python"
+    },
+    {
+      "question": "What is 'Matplotlib' in Python used for?",
+      "options": ["A data visualization library", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "A data visualization library"
+    },
+    {
+      "question": "What is Python's 'Pandas' library used for?",
+      "options": ["Data manipulation and analysis", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "Data manipulation and analysis"
+    },
+    {
+      "question": "What is 'NumPy' in Python used for?",
+      "options": ["Numerical computing and array operations", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "Numerical computing and array operations"
+    },
+    {
+      "question": "What is 'pipx' in Python used for?",
+      "options": ["To install and run Python CLI tools in isolated environments", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "To install and run Python CLI tools in isolated environments"
+    },
+    {
+      "question": "What is Python's 'SQLAlchemy' library used for?",
+      "options": ["Database ORM (Object-Relational Mapping)", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "Database ORM (Object-Relational Mapping)"
+    },
+    {
+      "question": "What is 'Jupyter Notebook' in Python used for?",
+      "options": ["An interactive notebook for data science and research", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "An interactive notebook for data science and research"
+    },
+    {
+      "question": "What is 'Pytest' in Python used for?",
+      "options": ["A testing framework", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "A testing framework"
+    },
+    {
+      "question": "What is 'PyLint' in Python used for?",
+      "options": ["A code quality checker and linter", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "A code quality checker and linter"
+    },
+    {
+      "question": "What is 'Python C API'?",
+      "options": ["An interface for integrating Python with C/C++", "A Python development environment", "A database management system", "A web framework"],
+      "answer": "An interface for integrating Python with C/C++"
+    }
+  ]
+  

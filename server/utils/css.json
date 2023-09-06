@@ -1,0 +1,373 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which CSS property is used to change the background color of an element?",
+      "options": ["color", "background-color", "text-color", "bgcolor"],
+      "answer": "background-color"
+    },
+    {
+      "question": "What does the 'float' property in CSS do?",
+      "options": ["Makes text float in water", "Moves an element to the right", "Allows elements to wrap around an element", "Changes the font style"],
+      "answer": "Allows elements to wrap around an element"
+    },
+    {
+      "question": "Which CSS property is used to add space between the borders and content of an element?",
+      "options": ["padding", "margin", "border-spacing", "spacing"],
+      "answer": "padding"
+    },
+    {
+      "question": "In CSS, what does 'RGB' stand for?",
+      "options": ["Red, Green, Blue", "Really Good Buttons", "Radical Gradient Background", "Random Generated Border"],
+      "answer": "Red, Green, Blue"
+    },
+    {
+      "question": "Which CSS selector is used to select elements with a specific class?",
+      "options": [".class", "#id", "element", "name"],
+      "answer": ".class"
+    },
+    {
+      "question": "What is the purpose of 'media queries' in CSS?",
+      "options": ["To create animations", "To print documents", "To apply styles based on device characteristics", "To select fonts"],
+      "answer": "To apply styles based on device characteristics"
+    },
+    {
+      "question": "Which CSS property is used to make text italic?",
+      "options": ["font-style", "text-style", "italic", "font-italic"],
+      "answer": "font-style"
+    },
+    {
+      "question": "What does the 'box-sizing' property in CSS control?",
+      "options": ["The size of the HTML box", "The size of the margin", "The size of the content box", "The size of the border"],
+      "answer": "The size of the content box"
+    },
+    {
+      "question": "Which CSS property is used to set the font size of an element?",
+      "options": ["font-size", "text-size", "size", "font-style"],
+      "answer": "font-size"
+    },
+    {
+      "question": "What is the purpose of 'z-index' in CSS?",
+      "options": ["To control the opacity of an element", "To specify the stacking order of elements", "To control the width of an element", "To create gradients"],
+      "answer": "To specify the stacking order of elements"
+    },
+    {
+      "question": "Which CSS property is used to add a shadow to an element's text?",
+      "options": ["text-shadow", "box-shadow", "element-shadow", "font-shadow"],
+      "answer": "text-shadow"
+    },
+    {
+      "question": "In CSS, what does the 'em' unit of measurement represent?",
+      "options": ["A relative unit based on the font size of the element", "A fixed unit of measurement", "An absolute unit of measurement", "A unit of measurement based on the viewport width"],
+      "answer": "A relative unit based on the font size of the element"
+    },
+    {
+      "question": "What does 'CSS specificity' refer to?",
+      "options": ["The importance of a stylesheet", "The order in which styles are applied", "The way styles are written", "The hierarchy of selector importance"],
+      "answer": "The hierarchy of selector importance"
+    },
+    {
+      "question": "Which CSS property is used to change the color of text?",
+      "options": ["text-color", "font-color", "color", "text-style"],
+      "answer": "color"
+    },
+    {
+      "question": "What does 'RWD' stand for in the context of web design?",
+      "options": ["Responsive Web Design", "Really Wide Dimensions", "Remote Web Development", "Rapid Web Deployment"],
+      "answer": "Responsive Web Design"
+    },
+    {
+      "question": "What is the purpose of 'pseudo-classes' in CSS?",
+      "options": ["To select elements with specific class names", "To apply styles to elements based on their state or position", "To create animations", "To group elements"],
+      "answer": "To apply styles to elements based on their state or position"
+    },
+    {
+      "question": "Which CSS property is used to add a background image to an element?",
+      "options": ["background-image", "image", "background", "image-source"],
+      "answer": "background-image"
+    },
+    {
+      "question": "What is 'CSS grid' used for?",
+      "options": ["To create responsive images", "To structure and align elements in a grid layout", "To create animations", "To change font styles"],
+      "answer": "To structure and align elements in a grid layout"
+    },
+    {
+      "question": "What does the 'display' property in CSS control?",
+      "options": ["The width of an element", "The visibility of an element", "How an element is displayed in the layout", "The color of an element"],
+      "answer": "How an element is displayed in the layout"
+    },
+    {
+      "question": "Which CSS property is used to change the width of an element's border?",
+      "options": ["border-width", "border-size", "border", "width"],
+      "answer": "border-width"
+    },
+    {
+      "question": "What is the purpose of 'transitions' in CSS?",
+      "options": ["To create responsive designs", "To apply styles to links", "To add smooth animations to property changes", "To control the page layout"],
+      "answer": "To add smooth animations to property changes"
+    },
+    {
+      "question": "Which CSS property is used to change the style of an element's border?",
+      "options": ["border-style", "border", "style", "border-design"],
+      "answer": "border-style"
+    },
+    {
+      "question": "In CSS, what does 'RWD' stand for?",
+      "options": ["Responsive Web Design", "Really Wide Dimensions", "Remote Web Development", "Rapid Web Deployment"],
+      "answer": "Responsive Web Design"
+    },
+    {
+      "question": "What does 'CSS specificity' refer to?",
+      "options": ["The importance of a stylesheet", "The order in which styles are applied", "The way styles are written", "The hierarchy of selector importance"],
+      "answer": "The hierarchy of selector importance"
+    },
+    {
+      "question": "Which CSS property is used to change the color of text?",
+      "options": ["text-color", "font-color", "color", "text-style"],
+      "answer": "color"
+    },
+    {
+      "question": "What is the purpose of 'pseudo-classes' in CSS?",
+      "options": ["To select elements with specific class names", "To apply styles to elements based on their state or position", "To create animations", "To group elements"],
+      "answer": "To apply styles to elements based on their state or position"
+    },
+    {
+      "question": "Which CSS property is used to add a background image to an element?",
+      "options": ["background-image", "image", "background", "image-source"],
+      "answer": "background-image"
+    },
+    {
+      "question": "What is 'CSS grid' used for?",
+      "options": ["To create responsive images", "To structure and align elements in a grid layout", "To create animations", "To change font styles"],
+      "answer": "To structure and align elements in a grid layout"
+    },
+    {
+      "question": "What does the 'display' property in CSS control?",
+      "options": ["The width of an element", "The visibility of an element", "How an element is displayed in the layout", "The color of an element"],
+      "answer": "How an element is displayed in the layout"
+    },
+    {
+      "question": "Which CSS property is used to change the width of an element's border?",
+      "options": ["border-width", "border-size", "border", "width"],
+      "answer": "border-width"
+    },
+    {
+      "question": "What is the purpose of 'transitions' in CSS?",
+      "options": ["To create responsive designs", "To apply styles to links", "To add smooth animations to property changes", "To control the page layout"],
+      "answer": "To add smooth animations to property changes"
+    },
+    {
+      "question": "Which CSS property is used to change the style of an element's border?",
+      "options": ["border-style", "border", "style", "border-design"],
+      "answer": "border-style"
+    },
+    {
+      "question": "What is the purpose of 'flexbox' in CSS?",
+      "options": ["To create animations", "To structure and align elements in a flexible layout", "To apply text styles", "To add gradients to elements"],
+      "answer": "To structure and align elements in a flexible layout"
+    },
+    {
+      "question": "Which CSS property is used to change the font weight of text?",
+      "options": ["font-style", "font-weight", "text-weight", "weight"],
+      "answer": "font-weight"
+    },
+    {
+      "question": "What is the purpose of the 'position' property in CSS?",
+      "options": ["To change the element's background color", "To specify how an element is positioned within its parent", "To add shadows to text", "To create responsive designs"],
+      "answer": "To specify how an element is positioned within its parent"
+    },
+    {
+      "question": "Which CSS property is used to create a 3D effect on an element?",
+      "options": ["3d-effect", "transform", "perspective", "shadow"],
+      "answer": "perspective"
+    },
+    {
+      "question": "What does 'CSS preprocessors' like Sass and Less do?",
+      "options": ["They validate CSS code", "They minify CSS code", "They generate CSS code from higher-level syntax", "They add animations to CSS code"],
+      "answer": "They generate CSS code from higher-level syntax"
+    },
+    {
+      "question": "Which CSS property is used to change the order of flex items in a flex container?",
+      "options": ["flex-order", "order", "item-order", "flex-item-order"],
+      "answer": "order"
+    },
+    {
+      "question": "What is the purpose of 'pseudo-elements' in CSS?",
+      "options": ["To select elements with specific class names", "To apply styles to elements based on their state or position", "To create animations", "To style a specific part of an element"],
+      "answer": "To style a specific part of an element"
+    },
+    {
+      "question": "Which CSS property is used to add a border to an element?",
+      "options": ["border", "border-color", "add-border", "element-border"],
+      "answer": "border"
+    },
+    {
+      "question": "What is the purpose of 'CSS variables' (custom properties) in CSS?",
+      "options": ["To store JavaScript functions", "To store key-value pairs for use in CSS", "To create animations", "To change the structure of the HTML document"],
+      "answer": "To store key-value pairs for use in CSS"
+    },
+    {
+      "question": "Which CSS property is used to change the size of an element's text?",
+      "options": ["font-size", "text-size", "size", "font-style"],
+      "answer": "font-size"
+    },
+    {
+      "question": "What is the purpose of 'CSS animations'?",
+      "options": ["To create responsive designs", "To add interactivity to web pages", "To create smooth transitions and visual effects", "To define HTML structure"],
+      "answer": "To create smooth transitions and visual effects"
+    },
+    {
+      "question": "Which CSS property is used to change the font family of text?",
+      "options": ["font-family", "text-family", "family", "font-style"],
+      "answer": "font-family"
+    },
+    {
+      "question": "What is the purpose of 'CSS frameworks' like Bootstrap?",
+      "options": ["To validate CSS code", "To generate CSS code from higher-level syntax", "To provide pre-designed styles and layout components", "To add animations to CSS code"],
+      "answer": "To provide pre-designed styles and layout components"
+    },
+    {
+      "question": "Which CSS property is used to change the spacing between lines of text?",
+      "options": ["line-height", "spacing", "text-spacing", "line-style"],
+      "answer": "line-height"
+    },
+    {
+      "question": "What is the purpose of 'vendor prefixes' in CSS?",
+      "options": ["To specify the vendor of the CSS file", "To add animations to CSS code", "To ensure compatibility with different browsers", "To create responsive designs"],
+      "answer": "To ensure compatibility with different browsers"
+    },
+    {
+      "question": "Which CSS property is used to change the transparency of an element?",
+      "options": ["transparency", "opacity", "visible", "background-opacity"],
+      "answer": "opacity"
+    },
+    {
+      "question": "What does 'CSS specificity' refer to?",
+      "options": ["The importance of a stylesheet", "The order in which styles are applied", "The way styles are written", "The hierarchy of selector importance"],
+      "answer": "The hierarchy of selector importance"
+    },
+    {
+      "question": "Which CSS property is used to change the color of text?",
+      "options": ["text-color", "font-color", "color", "text-style"],
+      "answer": "color"
+    },
+    {
+      "question": "What is the purpose of 'pseudo-classes' in CSS?",
+      "options": ["To select elements with specific class names", "To apply styles to elements based on their state or position", "To create animations", "To group elements"],
+      "answer": "To apply styles to elements based on their state or position"
+    },
+    {
+      "question": "Which CSS property is used to add a background image to an element?",
+      "options": ["background-image", "image", "background", "image-source"],
+      "answer": "background-image"
+    },
+    {
+      "question": "What is 'CSS grid' used for?",
+      "options": ["To create responsive images", "To structure and align elements in a grid layout", "To create animations", "To change font styles"],
+      "answer": "To structure and align elements in a grid layout"
+    },
+    {
+      "question": "What does the 'display' property in CSS control?",
+      "options": ["The width of an element", "The visibility of an element", "How an element is displayed in the layout", "The color of an element"],
+      "answer": "How an element is displayed in the layout"
+    },
+    {
+      "question": "Which CSS property is used to change the width of an element's border?",
+      "options": ["border-width", "border-size", "border", "width"],
+      "answer": "border-width"
+    },
+    {
+      "question": "What is the purpose of 'transitions' in CSS?",
+      "options": ["To create responsive designs", "To apply styles to links", "To add smooth animations to property changes", "To control the page layout"],
+      "answer": "To add smooth animations to property changes"
+    },
+    {
+      "question": "Which CSS property is used to change the style of an element's border?",
+      "options": ["border-style", "border", "style", "border-design"],
+      "answer": "border-style"
+    },
+    {
+      "question": "What is the purpose of 'flexbox' in CSS?",
+      "options": ["To create animations", "To structure and align elements in a flexible layout", "To apply text styles", "To add gradients to elements"],
+      "answer": "To structure and align elements in a flexible layout"
+    },
+    {
+      "question": "Which CSS property is used to change the font weight of text?",
+      "options": ["font-style", "font-weight", "text-weight", "weight"],
+      "answer": "font-weight"
+    },
+    {
+      "question": "What is the purpose of the 'position' property in CSS?",
+      "options": ["To change the element's background color", "To specify how an element is positioned within its parent", "To add shadows to text", "To create responsive designs"],
+      "answer": "To specify how an element is positioned within its parent"
+    },
+    {
+      "question": "Which CSS property is used to create a 3D effect on an element?",
+      "options": ["3d-effect", "transform", "perspective", "shadow"],
+      "answer": "perspective"
+    },
+    {
+      "question": "What does 'CSS preprocessors' like Sass and Less do?",
+      "options": ["They validate CSS code", "They minify CSS code", "They generate CSS code from higher-level syntax", "They add animations to CSS code"],
+      "answer": "They generate CSS code from higher-level syntax"
+    },
+    {
+      "question": "Which CSS property is used to change the order of flex items in a flex container?",
+      "options": ["flex-order", "order", "item-order", "flex-item-order"],
+      "answer": "order"
+    },
+    {
+      "question": "What is the purpose of 'pseudo-elements' in CSS?",
+      "options": ["To select elements with specific class names", "To apply styles to elements based on their state or position", "To create animations", "To style a specific part of an element"],
+      "answer": "To style a specific part of an element"
+    },
+    {
+      "question": "Which CSS property is used to add a border to an element?",
+      "options": ["border", "border-color", "add-border", "element-border"],
+      "answer": "border"
+    },
+    {
+      "question": "What is the purpose of 'CSS variables' (custom properties) in CSS?",
+      "options": ["To store JavaScript functions", "To store key-value pairs for use in CSS", "To create animations", "To change the structure of the HTML document"],
+      "answer": "To store key-value pairs for use in CSS"
+    },
+    {
+      "question": "Which CSS property is used to change the size of an element's text?",
+      "options": ["font-size", "text-size", "size", "font-style"],
+      "answer": "font-size"
+    },
+    {
+      "question": "What is the purpose of 'CSS animations'?",
+      "options": ["To create responsive designs", "To add interactivity to web pages", "To create smooth transitions and visual effects", "To define HTML structure"],
+      "answer": "To create smooth transitions and visual effects"
+    },
+    {
+      "question": "Which CSS property is used to change the font family of text?",
+      "options": ["font-family", "text-family", "family", "font-style"],
+      "answer": "font-family"
+    },
+    {
+      "question": "What is the purpose of 'CSS frameworks' like Bootstrap?",
+      "options": ["To validate CSS code", "To generate CSS code from higher-level syntax", "To provide pre-designed styles and layout components", "To add animations to CSS code"],
+      "answer": "To provide pre-designed styles and layout components"
+    },
+    {
+      "question": "Which CSS property is used to change the spacing between lines of text?",
+      "options": ["line-height", "spacing", "text-spacing", "line-style"],
+      "answer": "line-height"
+    },
+    {
+      "question": "What is the purpose of 'vendor prefixes' in CSS?",
+      "options": ["To specify the vendor of the CSS file", "To add animations to CSS code", "To ensure compatibility with different browsers", "To create responsive designs"],
+      "answer": "To ensure compatibility with different browsers"
+    },
+    {
+      "question": "Which CSS property is used to change the transparency of an element?",
+      "options": ["transparency", "opacity", "visible", "background-opacity"],
+      "answer": "opacity"
+    }
+  ]
+  

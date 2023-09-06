@@ -1,0 +1,218 @@
+[
+    {
+      "question": "What does JSON stand for?",
+      "options": ["JavaScript Object Notation", "JavaScript Object Navigation", "JavaScript Order of Numbers", "JavaScript Object Naming"],
+      "answer": "JavaScript Object Notation"
+    },
+    {
+      "question": "Which data types can be represented in JSON?",
+      "options": ["Strings, numbers, booleans, objects, arrays, and null", "Strings, numbers, and booleans only", "Objects and arrays only", "Strings, objects, and arrays only"],
+      "answer": "Strings, numbers, booleans, objects, arrays, and null"
+    },
+    {
+      "question": "What is the file extension commonly used for JSON files?",
+      "options": [".js", ".txt", ".json", ".data"],
+      "answer": ".json"
+    },
+    {
+      "question": "Which character is used to separate key-value pairs in a JSON object?",
+      "options": [":", ";", ",", "="],
+      "answer": ":"
+    },
+    {
+      "question": "In JSON, which data type is represented by 'null'?",
+      "options": ["Empty string", "Undefined", "No value", "Zero"],
+      "answer": "No value"
+    },
+    {
+      "question": "What is the purpose of JSON.stringify() in JavaScript?",
+      "options": ["To convert a JSON object to a string", "To parse a JSON string into a JavaScript object", "To compare two JSON objects", "To check if a key exists in a JSON object"],
+      "answer": "To convert a JSON object to a string"
+    },
+    {
+      "question": "How is a JSON array different from a JSON object?",
+      "options": ["An array contains an ordered list of values, while an object contains key-value pairs", "An array contains key-value pairs, while an object contains an ordered list of values", "There is no difference, they are the same", "An array is always nested inside an object"],
+      "answer": "An array contains an ordered list of values, while an object contains key-value pairs"
+    },
+    {
+      "question": "In JSON, what is the purpose of square brackets '[' and ']'?",
+      "options": ["To denote an object", "To denote an array", "To separate key-value pairs", "To denote a function"],
+      "answer": "To denote an array"
+    },
+    {
+      "question": "What is JSON parsing?",
+      "options": ["The process of converting a JSON string into a JavaScript object", "The process of converting a JavaScript object into a JSON string", "The process of deleting a key from a JSON object", "The process of finding the length of a JSON array"],
+      "answer": "The process of converting a JSON string into a JavaScript object"
+    },
+    {
+      "question": "What is the correct JSON syntax for an empty object?",
+      "options": ["{}", "[]", "null", "''"],
+      "answer": "{}"
+    },
+    {
+      "question": "In JSON, can you use single quotes (') instead of double quotes (\") for strings?",
+      "options": ["Yes, both single and double quotes are allowed", "No, only double quotes are allowed for strings", "Yes, but only for object keys", "No, single quotes are not allowed at all"],
+      "answer": "No, only double quotes are allowed for strings"
+    },
+    {
+      "question": "Which JavaScript method is used to parse a JSON string into a JavaScript object?",
+      "options": ["JSON.parse()", "JSON.stringify()", "parseJSON()", "stringifyJSON()"],
+      "answer": "JSON.parse()"
+    },
+    {
+      "question": "What does the JSON data format primarily focus on?",
+      "options": ["Data interchange and ease of parsing", "Data visualization and graphics", "Data encryption and security", "Data sorting and searching"],
+      "answer": "Data interchange and ease of parsing"
+    },
+    {
+      "question": "Which character is used to separate elements in a JSON array?",
+      "options": [":", ";", ",", "="],
+      "answer": ","
+    },
+    {
+      "question": "What is the purpose of JSON schema?",
+      "options": ["To define the structure and validation rules for JSON data", "To convert JSON data to XML format", "To encrypt JSON data for security", "To compress JSON data for storage"],
+      "answer": "To define the structure and validation rules for JSON data"
+    },
+    {
+      "question": "Which of the following is not a valid JSON data type?",
+      "options": ["String", "Number", "Function", "Boolean"],
+      "answer": "Function"
+    },
+    {
+      "question": "What is the difference between JSON and XML?",
+      "options": ["JSON uses less verbose syntax and is easier for machines to parse", "XML is primarily used for data interchange, while JSON is for markup", "JSON allows for richer data structures than XML", "There is no difference, they are interchangeable"],
+      "answer": "JSON uses less verbose syntax and is easier for machines to parse"
+    },
+    {
+      "question": "What is the purpose of the 'JSON.stringify()' method?",
+      "options": ["To parse a JSON string into a JavaScript object", "To validate the structure of a JSON object", "To convert a JavaScript object into a JSON string", "To create a new JSON object"],
+      "answer": "To convert a JavaScript object into a JSON string"
+    },
+    {
+      "question": "In JSON, what is the purpose of the 'true' value?",
+      "options": ["To represent a true statement", "To indicate the start of a JSON object", "To represent the boolean value 'true'", "To denote the end of a JSON array"],
+      "answer": "To represent the boolean value 'true'"
+    },
+    {
+      "question": "What is the purpose of the 'JSON.parse()' method?",
+      "options": ["To convert a JSON string into a JavaScript object", "To convert a JavaScript object into a JSON string", "To stringify a JSON object", "To check if a JSON object is empty"],
+      "answer": "To convert a JSON string into a JavaScript object"
+    },
+    {
+      "question": "In JSON, what is the purpose of the 'false' value?",
+      "options": ["To represent a false statement", "To indicate the start of a JSON object", "To represent the boolean value 'false'", "To denote the end of a JSON array"],
+      "answer": "To represent the boolean value 'false'"
+    },
+    {
+      "question": "What is JSONP (JSON with Padding)?",
+      "options": ["A technique to overcome the same-origin policy for JSON requests", "A way to add extra padding to JSON data", "A method to parse JSON strings", "A JavaScript library for JSON manipulation"],
+      "answer": "A technique to overcome the same-origin policy for JSON requests"
+    },
+    {
+      "question": "What is the purpose of the 'NaN' value in JSON?",
+      "options": ["To indicate the start of a JSON object", "To represent a non-numeric value", "To denote the end of a JSON array", "JSON does not support 'NaN' values"],
+      "answer": "To represent a non-numeric value"
+    },
+    {
+      "question": "In JSON, what is the purpose of the 'undefined' value?",
+      "options": ["To indicate the start of a JSON object", "To represent an undefined value", "To denote the end of a JSON array", "JSON does not support 'undefined' values"],
+      "answer": "JSON does not support 'undefined' values"
+    },
+    {
+      "question": "What is JSON-RPC?",
+      "options": ["A remote procedure call (RPC) protocol encoded in JSON", "A JavaScript library for handling JSON requests", "A JSON data format for storing RPC data", "A JSON-based protocol for remote debugging"],
+      "answer": "A remote procedure call (RPC) protocol encoded in JSON"
+    },
+    {
+      "question": "What is the purpose of JSON Web Tokens (JWT)?",
+      "options": ["To securely transmit information between parties as a JSON object", "To store JSON data on web servers", "To validate JSON data structures", "To compress JSON data for transmission"],
+      "answer": "To securely transmit information between parties as a JSON object"
+    },
+    {
+      "question": "In JSON, what is the purpose of the 'Infinity' value?",
+      "options": ["To represent an infinite loop", "To denote the end of a JSON array", "To represent positive infinity", "JSON does not support 'Infinity' values"],
+      "answer": "To represent positive infinity"
+    },
+    {
+      "question": "What is JSON Schema validation?",
+      "options": ["A way to validate JSON data against a specified schema", "A method to encrypt JSON data", "A process to convert XML data to JSON", "A way to create JSON data from a schema"],
+      "answer": "A way to validate JSON data against a specified schema"
+    },
+    {
+      "question": "What is the purpose of the 'JSON.stringify()' method's second argument?",
+      "options": ["To specify the separator between key-value pairs", "To provide a default value for missing keys", "To set the indentation for formatting", "To specify the encoding for special characters"],
+      "answer": "To set the indentation for formatting"
+    },
+    {
+      "question": "In JSON, what is the purpose of the 'Infinity' value?",
+      "options": ["To represent an infinite loop", "To denote the end of a JSON array", "To represent negative infinity", "JSON does not support 'Infinity' values"],
+      "answer": "To represent negative infinity"
+    },
+    {
+      "question": "What is the purpose of JSON Schema?",
+      "options": ["To define the structure and validation rules for JSON data", "To create a JSON object from a schema", "To convert XML data to JSON format", "To validate JavaScript objects"],
+      "answer": "To define the structure and validation rules for JSON data"
+    },
+    {
+      "question": "What is JSON-RPC?",
+      "options": ["A protocol for making remote procedure calls encoded in JSON", "A JavaScript library for handling JSON requests", "A JSON data format for storing RPC data", "A JSON-based protocol for remote debugging"],
+      "answer": "A protocol for making remote procedure calls encoded in JSON"
+    },
+    {
+      "question": "What is the purpose of the 'NaN' value in JSON?",
+      "options": ["To represent a non-numeric value", "To indicate the start of a JSON object", "To denote the end of a JSON array", "JSON does not support 'NaN' values"],
+      "answer": "To represent a non-numeric value"
+    },
+    {
+      "question": "What is the purpose of JSON Web Tokens (JWT)?",
+      "options": ["To securely transmit information between parties as a JSON object", "To store JSON data on web servers", "To validate JSON data structures", "To compress JSON data for transmission"],
+      "answer": "To securely transmit information between parties as a JSON object"
+    },
+    {
+      "question": "What is the purpose of the 'undefined' value in JSON?",
+      "options": ["To indicate the start of a JSON object", "To represent an undefined value", "To denote the end of a JSON array", "JSON does not support 'undefined' values"],
+      "answer": "JSON does not support 'undefined' values"
+    },
+    {
+      "question": "What is the purpose of JSONP (JSON with Padding)?",
+      "options": ["A technique to overcome the same-origin policy for JSON requests", "A way to add extra padding to JSON data", "A method to parse JSON strings", "A JavaScript library for JSON manipulation"],
+      "answer": "A technique to overcome the same-origin policy for JSON requests"
+    },
+    {
+      "question": "What is the purpose of JSON Schema validation?",
+      "options": ["A way to validate JSON data against a specified schema", "A method to encrypt JSON data", "A process to convert XML data to JSON", "A way to create JSON data from a schema"],
+      "answer": "A way to validate JSON data against a specified schema"
+    },
+    {
+      "question": "What is the purpose of JSON-RPC?",
+      "options": ["A protocol for making remote procedure calls encoded in JSON", "A JavaScript library for handling JSON requests", "A JSON data format for storing RPC data", "A JSON-based protocol for remote debugging"],
+      "answer": "A protocol for making remote procedure calls encoded in JSON"
+    },
+    {
+      "question": "What is the purpose of the 'NaN' value in JSON?",
+      "options": ["To represent a non-numeric value", "To indicate the start of a JSON object", "To denote the end of a JSON array", "JSON does not support 'NaN' values"],
+      "answer": "To represent a non-numeric value"
+    },
+    {
+      "question": "What is the purpose of JSON Web Tokens (JWT)?",
+      "options": ["To securely transmit information between parties as a JSON object", "To store JSON data on web servers", "To validate JSON data structures", "To compress JSON data for transmission"],
+      "answer": "To securely transmit information between parties as a JSON object"
+    },
+    {
+      "question": "What is the purpose of the 'undefined' value in JSON?",
+      "options": ["To indicate the start of a JSON object", "To represent an undefined value", "To denote the end of a JSON array", "JSON does not support 'undefined' values"],
+      "answer": "JSON does not support 'undefined' values"
+    },
+    {
+      "question": "What is the purpose of JSONP (JSON with Padding)?",
+      "options": ["A technique to overcome the same-origin policy for JSON requests", "A way to add extra padding to JSON data", "A method to parse JSON strings", "A JavaScript library for JSON manipulation"],
+      "answer": "A technique to overcome the same-origin policy for JSON requests"
+    },
+    {
+      "question": "What is the purpose of JSON Schema validation?",
+      "options": ["A way to validate JSON data against a specified schema", "A method to encrypt JSON data", "A process to convert XML data to JSON", "A way to create JSON data from a schema"],
+      "answer": "A way to validate JSON data against a specified schema"
+    }
+  ]
+  

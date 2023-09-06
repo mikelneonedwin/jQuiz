@@ -1,0 +1,11 @@
+@import url('../../public/css/google-font.css');
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+
+body {
+    @apply bg-[#FAFAFA] text-gray-700;
+}
+* {
+    font-family: 'circula';
+}

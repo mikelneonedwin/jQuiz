@@ -1,0 +1,552 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Hyperlink and Text Markup Language",
+            "Highly Typed Modular Language",
+            "Hyper Transfer Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which HTML tag is used for creating a hyperlink?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<url>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "options": [
+            "<lb>",
+            "<break>",
+            "<br>",
+            "<line>"
+        ],
+        "answer": "<br>"
+    },
+    {
+        "question": "Which HTML element is used for creating an unordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'meta' tag?",
+        "options": [
+            "To define a section of text",
+            "To create a list",
+            "To provide metadata about the document",
+            "To insert images"
+        ],
+        "answer": "To provide metadata about the document"
+    },
+    {
+        "question": "Which HTML tag is used for defining the structure of a table?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<th>"
+        ],
+        "answer": "<table>"
+    },
+    {
+        "question": "What does the HTML 'img' tag represent?",
+        "options": [
+            "A clickable link",
+            "An image",
+            "A paragraph of text",
+            "An input field"
+        ],
+        "answer": "An image"
+    },
+    {
+        "question": "Which HTML tag is used for creating a numbered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'head' element?",
+        "options": [
+            "To define the main content of the document",
+            "To create a header section at the top of the page",
+            "To store metadata about the document",
+            "To define a list of items"
+        ],
+        "answer": "To store metadata about the document"
+    },
+    {
+        "question": "Which HTML tag is used for creating a hyperlink?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<url>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "options": [
+            "<lb>",
+            "<break>",
+            "<br>",
+            "<line>"
+        ],
+        "answer": "<br>"
+    },
+    {
+        "question": "Which HTML element is used for creating an unordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'meta' tag?",
+        "options": [
+            "To define a section of text",
+            "To create a list",
+            "To provide metadata about the document",
+            "To insert images"
+        ],
+        "answer": "To provide metadata about the document"
+    },
+    {
+        "question": "Which HTML tag is used for defining the structure of a table?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<th>"
+        ],
+        "answer": "<table>"
+    },
+    {
+        "question": "What does the HTML 'img' tag represent?",
+        "options": [
+            "A clickable link",
+            "An image",
+            "A paragraph of text",
+            "An input field"
+        ],
+        "answer": "An image"
+    },
+    {
+        "question": "Which HTML tag is used for creating a numbered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'head' element?",
+        "options": [
+            "To define the main content of the document",
+            "To create a header section at the top of the page",
+            "To store metadata about the document",
+            "To define a list of items"
+        ],
+        "answer": "To store metadata about the document"
+    },
+    {
+        "question": "What is the correct HTML tag for creating an email link?",
+        "options": [
+            "<email>",
+            "<link>",
+            "<a href='mailto:'>",
+            "<mail>"
+        ],
+        "answer": "<a href='mailto:'>"
+    },
+    {
+        "question": "Which HTML tag is used for creating a division or a section in an HTML document?",
+        "options": [
+            "<div>",
+            "<section>",
+            "<article>",
+            "<span>"
+        ],
+        "answer": "<div>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'form' element?",
+        "options": [
+            "To create a list of options",
+            "To define the structure of a table",
+            "To create a section of text",
+            "To create a user-input form"
+        ],
+        "answer": "To create a user-input form"
+    },
+    {
+        "question": "Which HTML tag is used to emphasize text without defining its importance?",
+        "options": [
+            "<strong>",
+            "<em>",
+            "<italic>",
+            "<highlight>"
+        ],
+        "answer": "<em>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'iframe' element?",
+        "options": [
+            "To display a video",
+            "To create a popup window",
+            "To embed another web page within the current page",
+            "To style text"
+        ],
+        "answer": "To embed another web page within the current page"
+    },
+    {
+        "question": "Which HTML tag is used for defining the structure of a list?",
+        "options": [
+            "<list>",
+            "<li>",
+            "<ul>",
+            "<ol>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'label' element?",
+        "options": [
+            "To create a table",
+            "To provide a caption for an input element",
+            "To change the font color",
+            "To define a section of text"
+        ],
+        "answer": "To provide a caption for an input element"
+    },
+    {
+        "question": "Which HTML tag is used to create a clickable button?",
+        "options": [
+            "<button>",
+            "<input>",
+            "<click>",
+            "<submit>"
+        ],
+        "answer": "<button>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'header' element?",
+        "options": [
+            "To define a table header",
+            "To create a header section at the top of the page",
+            "To store metadata about the document",
+            "To create a list of items"
+        ],
+        "answer": "To create a header section at the top of the page"
+    },
+    {
+        "question": "Which HTML tag is used for creating a definition list?",
+        "options": [
+            "<list>",
+            "<li>",
+            "<ul>",
+            "<dl>"
+        ],
+        "answer": "<dl>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'abbr' element?",
+        "options": [
+            "To create a table",
+            "To provide a caption for an image",
+            "To define an abbreviation or acronym",
+            "To create a user-input form"
+        ],
+        "answer": "To define an abbreviation or acronym"
+    },
+    {
+        "question": "Which HTML tag is used to define a section in an HTML document?",
+        "options": [
+            "<div>",
+            "<section>",
+            "<article>",
+            "<span>"
+        ],
+        "answer": "<section>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'blockquote' element?",
+        "options": [
+            "To create a block of text",
+            "To provide a caption for an image",
+            "To define a quotation or citation",
+            "To create a user-input form"
+        ],
+        "answer": "To define a quotation or citation"
+    },
+    {
+        "question": "Which HTML tag is used for creating an ordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'mark' element?",
+        "options": [
+            "To create a table",
+            "To highlight text",
+            "To define an abbreviation or acronym",
+            "To create a user-input form"
+        ],
+        "answer": "To highlight text"
+    },
+    {
+        "question": "Which HTML tag is used for creating a navigation menu?",
+        "options": [
+            "<menu>",
+            "<nav>",
+            "<list>",
+            "<ul>"
+        ],
+        "answer": "<nav>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'cite' element?",
+        "options": [
+            "To create a table",
+            "To provide a caption for an image",
+            "To define the title of a work",
+            "To create a user-input form"
+        ],
+        "answer": "To define the title of a work"
+    },
+    {
+        "question": "Which HTML tag is used for creating a hyperlink?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<url>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "options": [
+            "<lb>",
+            "<break>",
+            "<br>",
+            "<line>"
+        ],
+        "answer": "<br>"
+    },
+    {
+        "question": "Which HTML element is used for creating an unordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'meta' tag?",
+        "options": [
+            "To define a section of text",
+            "To create a list",
+            "To provide metadata about the document",
+            "To insert images"
+        ],
+        "answer": "To provide metadata about the document"
+    },
+    {
+        "question": "Which HTML tag is used for defining the structure of a table?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<th>"
+        ],
+        "answer": "<table>"
+    },
+    {
+        "question": "What does the HTML 'img' tag represent?",
+        "options": [
+            "A clickable link",
+            "An image",
+            "A paragraph of text",
+            "An input field"
+        ],
+        "answer": "An image"
+    },
+    {
+        "question": "Which HTML tag is used for creating a numbered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'head' element?",
+        "options": [
+            "To define the main content of the document",
+            "To create a header section at the top of the page",
+            "To store metadata about the document",
+            "To define a list of items"
+        ],
+        "answer": "To store metadata about the document"
+    },
+    {
+        "question": "What is the correct HTML tag for creating an email link?",
+        "options": [
+            "<email>",
+            "<link>",
+            "<a href='mailto:'>",
+            "<mail>"
+        ],
+        "answer": "<a href='mailto:'>"
+    },
+    {
+        "question": "Which HTML tag is used for defining the structure of a list?",
+        "options": [
+            "<list>",
+            "<li>",
+            "<ul>",
+            "<ol>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'label' element?",
+        "options": [
+            "To create a table",
+            "To provide a caption for an input element",
+            "To change the font color",
+            "To define a section of text"
+        ],
+        "answer": "To provide a caption for an input element"
+    },
+    {
+        "question": "Which HTML tag is used to create a clickable button?",
+        "options": [
+            "<button>",
+            "<input>",
+            "<click>",
+            "<submit>"
+        ],
+        "answer": "<button>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'header' element?",
+        "options": [
+            "To define a table header",
+            "To create a header section at the top of the page",
+            "To store metadata about the document",
+            "To create a list of items"
+        ],
+        "answer": "To create a header section at the top of the page"
+    },
+    {
+        "question": "Which HTML tag is used for creating a definition list?",
+        "options": [
+            "<list>",
+            "<li>",
+            "<ul>",
+            "<dl>"
+        ],
+        "answer": "<dl>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'abbr' element?",
+        "options": [
+            "To create a table",
+            "To provide a caption for an image",
+            "To define an abbreviation or acronym",
+            "To create a user-input form"
+        ],
+        "answer": "To define an abbreviation or acronym"
+    },
+    {
+        "question": "Which HTML tag is used to define a section in an HTML document?",
+        "options": [
+            "<div>",
+            "<section>",
+            "<article>",
+            "<span>"
+        ],
+        "answer": "<section>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'blockquote' element?",
+        "options": [
+            "To create a block of text",
+            "To provide a caption for an image",
+            "To define a quotation or citation",
+            "To create a user-input form"
+        ],
+        "answer": "To define a quotation or citation"
+    },
+    {
+        "question": "Which HTML tag is used for creating an ordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ol>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'mark' element?",
+        "options": [
+            "To create a table",
+            "To highlight text",
+            "To define an abbreviation or acronym",
+            "To create a user-input form"
+        ],
+        "answer": "To highlight text"
+    },
+    {
+        "question": "Which HTML tag is used for creating a navigation menu?",
+        "options": [
+            "<menu>",
+            "<nav>",
+            "<list>",
+            "<ul>"
+        ],
+        "answer": "<nav>"
+    },
+    {
+        "question": "What is the purpose of the HTML 'cite' element?",
+        "options": [
+            "To create a table",
+            "To provide a caption for an image",
+            "To define the title of a work",
+            "To create a user-input form"
+        ],
+        "answer": "To define the title of a work"
+    }
+]

@@ -1,0 +1,328 @@
+[
+    {
+      "question": "What does PHP stand for?",
+      "options": ["Personal Home Page", "Hypertext Markup Language", "Private Hosting Platform", "Programming Hyperlinks and Pages"],
+      "answer": "Personal Home Page"
+    },
+    {
+      "question": "Which of the following is NOT a data type in PHP?",
+      "options": ["int", "string", "boolean", "float", "double"],
+      "answer": "double"
+    },
+    {
+      "question": "What is the default file extension for PHP files?",
+      "options": [".html", ".php", ".web", ".xml"],
+      "answer": ".php"
+    },
+    {
+      "question": "In PHP, how do you start a single-line comment?",
+      "options": ["<!--", "//", "/*", "#"],
+      "answer": "//"
+    },
+    {
+      "question": "Which function in PHP is used to check if a file exists?",
+      "options": ["file_exists()", "is_file()", "file_check()", "file_presence()"],
+      "answer": "file_exists()"
+    },
+    {
+      "question": "What is the purpose of the PHP function 'echo'?",
+      "options": ["To output content to the browser", "To define a variable", "To create an array", "To perform arithmetic calculations"],
+      "answer": "To output content to the browser"
+    },
+    {
+      "question": "Which of the following is used to concatenate two strings in PHP?",
+      "options": ["+", ".", ",", "&"],
+      "answer": "."
+    },
+    {
+      "question": "What does the PHP 'include' function do?",
+      "options": ["It imports an external PHP file into the current script", "It checks if a variable is defined", "It redirects the user to a different URL", "It creates a new directory"],
+      "answer": "It imports an external PHP file into the current script"
+    },
+    {
+      "question": "What is the correct way to start a PHP block?",
+      "options": ["<php>", "<?php>", "<script>", "<?script>"],
+      "answer": "<?php>"
+    },
+    {
+      "question": "In PHP, how do you declare a constant?",
+      "options": ["Using the 'var' keyword", "Using the 'let' keyword", "Using the 'define' function", "Using the 'constant' function"],
+      "answer": "Using the 'define' function"
+    },
+    {
+      "question": "Which PHP function is used to get the length of a string?",
+      "options": ["strlen()", "length()", "string_length()", "str_length()"],
+      "answer": "strlen()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'header' function?",
+      "options": ["To set HTTP response headers", "To create HTML headers", "To define a function", "To set session cookies"],
+      "answer": "To set HTTP response headers"
+    },
+    {
+      "question": "In PHP, how do you declare a variable?",
+      "options": ["Using the 'var' keyword", "Using the 'let' keyword", "Using the 'const' keyword", "Simply by assigning a value"],
+      "answer": "Simply by assigning a value"
+    },
+    {
+      "question": "What is the result of adding a number and a string in PHP?",
+      "options": ["A string", "An error", "A number", "A boolean"],
+      "answer": "A string"
+    },
+    {
+      "question": "Which PHP superglobal array is used to collect form data after submitting an HTML form?",
+      "options": ["$_GET", "$_POST", "$_REQUEST", "$_FORM"],
+      "answer": "$_POST"
+    },
+    {
+      "question": "What is the purpose of the PHP 'mysqli_connect' function?",
+      "options": ["To connect to a MySQL database", "To create a new PHP file", "To set session cookies", "To check if a file exists"],
+      "answer": "To connect to a MySQL database"
+    },
+    {
+      "question": "Which PHP function is used to remove whitespace or other predefined characters from the beginning and end of a string?",
+      "options": ["trim()", "strip()", "clean()", "remove()"],
+      "answer": "trim()"
+    },
+    {
+      "question": "What is the result of using '===' to compare two values in PHP?",
+      "options": ["Strict type and value equality", "Loose type equality", "Loose value equality", "Strict type equality"],
+      "answer": "Strict type and value equality"
+    },
+    {
+      "question": "Which PHP function is used to open a file for reading?",
+      "options": ["fopen()", "file_open()", "readfile()", "open_file()"],
+      "answer": "fopen()"
+    },
+    {
+      "question": "In PHP, how do you start a multi-line comment?",
+      "options": ["<!--", "//", "/*", "#"],
+      "answer": "/*"
+    },
+    {
+      "question": "What is the purpose of the PHP 'isset' function?",
+      "options": ["To check if a variable is set and is not NULL", "To set the value of a variable", "To create a new variable", "To display the value of a variable"],
+      "answer": "To check if a variable is set and is not NULL"
+    },
+    {
+      "question": "Which PHP function is used to close a MySQL database connection?",
+      "options": ["mysqli_close()", "mysql_close()", "close_connection()", "disconnect()"],
+      "answer": "mysqli_close()"
+    },
+    {
+      "question": "What is the result of using '==' to compare two values in PHP?",
+      "options": ["Loose value equality", "Strict type equality", "Strict type and value equality", "Loose type equality"],
+      "answer": "Loose value equality"
+    },
+    {
+      "question": "Which PHP superglobal array is used to retrieve information about file uploads?",
+      "options": ["$_GET", "$_POST", "$_FILES", "$_REQUEST"],
+      "answer": "$_FILES"
+    },
+    {
+      "question": "What does PHP's 'implode' function do?",
+      "options": ["Converts an array into a string", "Splits a string into an array", "Joins two arrays together", "Removes elements from an array"],
+      "answer": "Converts an array into a string"
+    },
+    {
+      "question": "Which PHP function is used to redirect the user to another URL?",
+      "options": ["header('Location: new_url')", "redirect('new_url')", "location.href = 'new_url'", "goTo('new_url')"],
+      "answer": "header('Location: new_url')"
+    },
+    {
+      "question": "What is the purpose of the PHP 'date' function?",
+      "options": ["To retrieve the current date and time", "To calculate mathematical expressions", "To format text", "To validate email addresses"],
+      "answer": "To retrieve the current date and time"
+    },
+    {
+      "question": "Which PHP function is used to read a line from a file?",
+      "options": ["fread()", "file_read()", "readfile()", "read_line()"],
+      "answer": "fgets()"
+    },
+    {
+      "question": "In PHP, how do you define a function?",
+      "options": ["function myFunction()", "def myFunction():", "void myFunction()", "fn myFunction()"],
+      "answer": "function myFunction()"
+    },
+    {
+      "question": "Which PHP superglobal array is used to manage sessions?",
+      "options": ["$_SESSION", "$_COOKIE", "$_REQUEST", "$_SERVER"],
+      "answer": "$_SESSION"
+    },
+    {
+      "question": "What is the purpose of the PHP 'array_push' function?",
+      "options": ["To remove an element from an array", "To add elements to the end of an array", "To check if an array is empty", "To reverse the elements of an array"],
+      "answer": "To add elements to the end of an array"
+    },
+    {
+      "question": "Which PHP function is used to remove the last element from an array?",
+      "options": ["array_pop()", "array_remove()", "array_shift()", "array_unshift()"],
+      "answer": "array_pop()"
+    },
+    {
+      "question": "What does PHP's 'json_encode' function do?",
+      "options": ["Converts a JSON string to a PHP object", "Converts a PHP object to a JSON string", "Encodes a string using JSON format", "Decodes a JSON string to an array"],
+      "answer": "Converts a PHP object to a JSON string"
+    },
+    {
+      "question": "In PHP, what is the purpose of the 'require' statement?",
+      "options": ["To include a file and halt execution if the file is not found", "To check if a variable is defined", "To create a new file", "To display the contents of a file"],
+      "answer": "To include a file and halt execution if the file is not found"
+    },
+    {
+      "question": "Which PHP function is used to calculate the length of an array?",
+      "options": ["array_length()", "count()", "array_count()", "length()"],
+      "answer": "count()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'unset' function?",
+      "options": ["To set a variable to NULL", "To remove a variable", "To create a new variable", "To check if a variable is set"],
+      "answer": "To remove a variable"
+    },
+    {
+      "question": "Which PHP function is used to perform SQL queries on a MySQL database?",
+      "options": ["mysql_query()", "mysqli_query()", "sql_query()", "query()"],
+      "answer": "mysqli_query()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'htmlspecialchars' function?",
+      "options": ["To validate email addresses", "To sanitize user input for HTML output", "To convert a string to uppercase", "To calculate mathematical expressions"],
+      "answer": "To sanitize user input for HTML output"
+    },
+    {
+      "question": "Which PHP superglobal array is used to retrieve information about cookies?",
+      "options": ["$_GET", "$_POST", "$_COOKIE", "$_SESSION"],
+      "answer": "$_COOKIE"
+    },
+    {
+      "question": "What is the purpose of the PHP 'array_merge' function?",
+      "options": ["To sort an array in ascending order", "To combine two or more arrays into one", "To remove duplicate values from an array", "To split an array into multiple arrays"],
+      "answer": "To combine two or more arrays into one"
+    },
+    {
+      "question": "In PHP, how do you declare a global variable within a function?",
+      "options": ["global $myVar;", "var $myVar;", "$myVar = global;", "declare global $myVar;"],
+      "answer": "global $myVar;"
+    },
+    {
+      "question": "What is the purpose of the PHP 'substr' function?",
+      "options": ["To calculate mathematical expressions", "To remove an element from an array", "To retrieve a substring from a string", "To format text"],
+      "answer": "To retrieve a substring from a string"
+    },
+    {
+      "question": "Which PHP function is used to sort an array in ascending order?",
+      "options": ["sort()", "asort()", "ksort()", "usort()"],
+      "answer": "sort()"
+    },
+    {
+      "question": "What does the PHP 'require_once' statement do?",
+      "options": ["Includes a file once and halts execution if the file is not found", "Includes a file multiple times", "Checks if a variable is defined once", "Sets a variable to NULL"],
+      "answer": "Includes a file once and halts execution if the file is not found"
+    },
+    {
+      "question": "In PHP, how do you declare a class?",
+      "options": ["class MyClass {}", "function MyClass() {}", "new Class MyClass() {}", "declare class MyClass() {}"],
+      "answer": "class MyClass {}"
+    },
+    {
+      "question": "Which PHP function is used to check if a value exists in an array?",
+      "options": ["in_array()", "array_search()", "value_exists()", "array_check()"],
+      "answer": "in_array()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'json_decode' function?",
+      "options": ["Converts a JSON string to a PHP object", "Converts a PHP object to a JSON string", "Encodes a string using JSON format", "Decodes a JSON string to an array"],
+      "answer": "Converts a JSON string to a PHP object"
+    },
+    {
+      "question": "Which PHP function is used to encode a URL?",
+      "options": ["url_encode()", "encode_url()", "urlencode()", "url()"],
+      "answer": "urlencode()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'foreach' loop?",
+      "options": ["To execute a block of code a specific number of times", "To iterate over the elements of an array", "To perform conditional checks", "To define a function"],
+      "answer": "To iterate over the elements of an array"
+    },
+    {
+      "question": "Which PHP superglobal array is used to retrieve information about the server environment?",
+      "options": ["$_GET", "$_POST", "$_REQUEST", "$_SERVER"],
+      "answer": "$_SERVER"
+    },
+    {
+      "question": "What does the PHP 'array_unique' function do?",
+      "options": ["Sorts an array in ascending order", "Removes duplicate values from an array", "Combines two arrays into one", "Counts the number of elements in an array"],
+      "answer": "Removes duplicate values from an array"
+    },
+    {
+      "question": "In PHP, what is the purpose of the 'static' keyword within a function?",
+      "options": ["To declare a variable as constant", "To declare a variable as global", "To create an instance of a class", "To preserve a variable's value between function calls"],
+      "answer": "To preserve a variable's value between function calls"
+    },
+    {
+      "question": "Which PHP function is used to send email?",
+      "options": ["mail()", "send_mail()", "email_send()", "smtp_send()"],
+      "answer": "mail()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'session_start' function?",
+      "options": ["To start a new PHP session", "To end a PHP session", "To check if a session variable exists", "To set a session cookie"],
+      "answer": "To start a new PHP session"
+    },
+    {
+      "question": "Which PHP function is used to perform a case-insensitive string comparison?",
+      "options": ["str_compare()", "strcasecmp()", "string_compare()", "case_compare()"],
+      "answer": "strcasecmp()"
+    },
+    {
+      "question": "In PHP, how do you declare a constant with a case-insensitive name?",
+      "options": ["Using 'define' with the 'CASE_INSENSITIVE' flag", "Constants cannot have case-insensitive names", "Using 'const' with a 'case_insensitive' modifier", "Using 'define' with 'const'"],
+      "answer": "Constants cannot have case-insensitive names"
+    },
+    {
+      "question": "What is the purpose of the PHP 'file_get_contents' function?",
+      "options": ["To create a new file", "To read the contents of a file into a string", "To check if a file exists", "To delete a file"],
+      "answer": "To read the contents of a file into a string"
+    },
+    {
+      "question": "Which PHP function is used to format a number with grouped thousands?",
+      "options": ["number_format()", "format_number()", "group_number()", "thousands_format()"],
+      "answer": "number_format()"
+    },
+    {
+      "question": "What does the PHP 'count' function return when used with an empty array?",
+      "options": ["0", "null", "false", "an error"],
+      "answer": "0"
+    },
+    {
+      "question": "Which PHP superglobal array is used to retrieve information about the client's user agent?",
+      "options": ["$_GET", "$_POST", "$_REQUEST", "$_SERVER"],
+      "answer": "$_SERVER"
+    },
+    {
+      "question": "What is the purpose of the PHP 'array_shift' function?",
+      "options": ["To remove the first element from an array", "To add an element to the end of an array", "To reverse the elements of an array", "To remove duplicate values from an array"],
+      "answer": "To remove the first element from an array"
+    },
+    {
+      "question": "In PHP, how do you define a private class property?",
+      "options": ["Using the 'public' keyword", "Using the 'private' keyword", "Using the 'protected' keyword", "Class properties cannot be private"],
+      "answer": "Using the 'private' keyword"
+    },
+    {
+      "question": "Which PHP function is used to retrieve the current timestamp?",
+      "options": ["now()", "current_time()", "time()", "timestamp()"],
+      "answer": "time()"
+    },
+    {
+      "question": "What is the purpose of the PHP 'array_key_exists' function?",
+      "options": ["To remove an element from an array", "To check if a variable is defined", "To check if a specific key exists in an array", "To calculate mathematical expressions"],
+      "answer": "To check if a specific key exists in an array"
+    },
+    {
+      "question": "Which PHP function is used to calculate the absolute value of a number?",
+      "options": ["abs()", "absolute()", "value()", "math_abs()"],
+      "answer": "abs()"
+    }
+  ]
+  

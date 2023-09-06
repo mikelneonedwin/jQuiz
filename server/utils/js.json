@@ -1,0 +1,612 @@
+[
+  {
+    "question": "What does the term 'hoisting' refer to in JavaScript?",
+    "options": [
+      "Variable lifting in the DOM.",
+      "Moving code to the top of a function.",
+      "Creating animations in JavaScript.",
+      "Automatically converting data types."
+    ],
+    "answer": "Moving code to the top of a function."
+  },
+  {
+    "question": "Which operator is used to compare the value and data type of two variables in JavaScript?",
+    "options": [
+      "==",
+      "===",
+      "=",
+      "!="
+    ],
+    "answer": "==="
+  },
+  {
+    "question": "What is the purpose of 'NaN' in JavaScript?",
+    "options": [
+      "To represent negative numbers.",
+      "To indicate 'Not a Number' or an invalid number.",
+      "To convert strings to numbers.",
+      "To check if a number is even."
+    ],
+    "answer": "To indicate 'Not a Number' or an invalid number."
+  },
+  {
+    "question": "Which keyword is used to declare a function in JavaScript?",
+    "options": [
+      "define",
+      "function",
+      "declare",
+      "create"
+    ],
+    "answer": "function"
+  },
+  {
+    "question": "What is the purpose of 'localStorage' in JavaScript?",
+    "options": [
+      "To store data on the server.",
+      "To store data on the client-side browser.",
+      "To store data in memory.",
+      "To store data in a database."
+    ],
+    "answer": "To store data on the client-side browser."
+  },
+  {
+    "question": "Which loop in JavaScript allows you to iterate through the properties of an object?",
+    "options": [
+      "for loop",
+      "while loop",
+      "do...while loop",
+      "for...in loop"
+    ],
+    "answer": "for...in loop"
+  },
+  {
+    "question": "What is the primary purpose of JavaScript?",
+    "options": [
+      "To style web pages with CSS.",
+      "To create interactive and dynamic web content.",
+      "To query databases.",
+      "To define the structure of a web page."
+    ],
+    "answer": "To create interactive and dynamic web content."
+  },
+  {
+    "question": "Which keyword is not used to declare variables in JavaScript?",
+    "options": [
+      "let",
+      "const",
+      "var",
+      "declare"
+    ],
+    "answer": "var"
+  },
+  {
+    "question": "What does the acronym 'DOM' stand for in JavaScript?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Dynamic Output Mechanism",
+      "Document Order Manager"
+    ],
+    "answer": "Document Object Model"
+  },
+  {
+    "question": "Which JavaScript operator is used for strict equality?",
+    "options": [
+      "==",
+      "===",
+      "!=",
+      "!=="
+    ],
+    "answer": "==="
+  },
+  {
+    "question": "What is the purpose of the 'setTimeout' function in JavaScript?",
+    "options": [
+      "To add a delay before executing a function or code.",
+      "To compare two values for equality.",
+      "To loop through an array.",
+      "To change the URL of the current web page."
+    ],
+    "answer": "To add a delay before executing a function or code."
+  },
+  {
+    "question": "What is an 'IIFE' in JavaScript?",
+    "options": [
+      "An Immediately Invoked Function Expression.",
+      "An International Internet File Extension.",
+      "An Inline Function Execution Event.",
+      "An Interactive Input Form Element."
+    ],
+    "answer": "An Immediately Invoked Function Expression."
+  },
+  {
+    "question": "Which JavaScript method is used to add elements to the end of an array?",
+    "options": [
+      "push()",
+      "append()",
+      "insert()",
+      "concat()"
+    ],
+    "answer": "push()"
+  },
+  {
+    "question": "What does 'NaN' stand for in JavaScript?",
+    "options": [
+      "Not a Node",
+      "New and Notable",
+      "Not a Number",
+      "No Action Needed"
+    ],
+    "answer": "Not a Number"
+  },
+  {
+    "question": "Which JavaScript event is triggered when an HTML element loses focus?",
+    "options": [
+      "onmouseover",
+      "onfocus",
+      "onblur",
+      "onclick"
+    ],
+    "answer": "onblur"
+  },
+  {
+    "question": "What is the purpose of 'JSON' in JavaScript?",
+    "options": [
+      "To style web pages with CSS.",
+      "To create interactive and dynamic web content.",
+      "To define the structure of a web page.",
+      "To exchange data between a server and a client."
+    ],
+    "answer": "To exchange data between a server and a client."
+  },
+  {
+    "question": "What is the purpose of the 'querySelector' method in JavaScript?",
+    "options": [
+      "To modify the style of an HTML element.",
+      "To retrieve the first HTML element that matches a specified CSS selector.",
+      "To loop through an array.",
+      "To change the URL of the current web page."
+    ],
+    "answer": "To retrieve the first HTML element that matches a specified CSS selector."
+  },
+  {
+    "question": "Which JavaScript loop allows you to iterate over the properties of an object?",
+    "options": [
+      "for loop",
+      "while loop",
+      "do-while loop",
+      "for...in loop"
+    ],
+    "answer": "for...in loop"
+  },
+  {
+    "question": "What does 'AJAX' stand for in web development?",
+    "options": [
+      "Asynchronous JavaScript and XML",
+      "Advanced JavaScript and XHTML",
+      "All JavaScript and XAML",
+      "Automated JavaScript and XML"
+    ],
+    "answer": "Asynchronous JavaScript and XML"
+  },
+  {
+    "question": "Which JavaScript method is used to remove the last element from an array?",
+    "options": [
+      "pop()",
+      "remove()",
+      "shift()",
+      "delete()"
+    ],
+    "answer": "pop()"
+  },
+  {
+    "question": "What is a 'closure' in JavaScript?",
+    "options": [
+      "A way to lock access to an object's properties.",
+      "A function that has access to variables from its outer function even after the outer function has finished executing.",
+      "A way to make an HTML element invisible.",
+      "A method to calculate the length of a string."
+    ],
+    "answer": "A function that has access to variables from its outer function even after the outer function has finished executing."
+  },
+  {
+    "question": "What does the 'NaN' value indicate in JavaScript?",
+    "options": [
+      "A new number",
+      "A negative number",
+      "An invalid number or result of an operation",
+      "A large number"
+    ],
+    "answer": "An invalid number or result of an operation"
+  },
+  {
+    "question": "Which JavaScript event is triggered when a user clicks on an HTML element?",
+    "options": [
+      "onmouseover",
+      "onfocus",
+      "onblur",
+      "onclick"
+    ],
+    "answer": "onclick"
+  },
+  {
+    "question": "What is the purpose of the 'map' function in JavaScript?",
+    "options": [
+      "To create a new array with the same elements as the original array.",
+      "To modify the style of an HTML element.",
+      "To change the URL of the current web page.",
+      "To add a delay before executing a function or code."
+    ],
+    "answer": "To create a new array with the same elements as the original array."
+  },
+  {
+    "question": "What does 'API' stand for in web development?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Program Implementation",
+      "Automated Page Integration",
+      "Application Protocol Interaction"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
+    "options": [
+      "To define a new function.",
+      "To handle exceptions and errors gracefully.",
+      "To execute code repeatedly.",
+      "To create a new object."
+    ],
+    "answer": "To handle exceptions and errors gracefully."
+  },
+  {
+    "question": "What is the result of the expression '2 + '2' in JavaScript?",
+    "options": [
+      "4",
+      "22",
+      "Error",
+      "NaN"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "What does the 'typeof' operator in JavaScript return when applied to an array?",
+    "options": [
+      "'object'",
+      "'array'",
+      "'number'",
+      "'string'"
+    ],
+    "answer": "'object'"
+  },
+  {
+    "question": "What is a 'callback function' in JavaScript?",
+    "options": [
+      "A function that is called after a certain amount of time has passed.",
+      "A function passed as an argument to another function, to be executed later.",
+      "A function that executes immediately upon definition.",
+      "A function that is called when an event occurs."
+    ],
+    "answer": "A function passed as an argument to another function, to be executed later."
+  },
+  {
+    "question": "What is the purpose of the 'parseFloat' function in JavaScript?",
+    "options": [
+      "To convert a string to an integer.",
+      "To convert a string to a floating-point number.",
+      "To convert a number to a string.",
+      "To check if a variable is defined."
+    ],
+    "answer": "To convert a string to a floating-point number."
+  },
+  {
+    "question": "Which JavaScript operator is used to combine two or more strings?",
+    "options": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "answer": "+"
+  },
+  {
+    "question": "What is 'ECMAScript' in the context of JavaScript?",
+    "options": [
+      "A popular JavaScript library.",
+      "The JavaScript standard specification.",
+      "A JavaScript framework.",
+      "A web browser extension."
+    ],
+    "answer": "The JavaScript standard specification."
+  },
+  {
+    "question": "Which built-in JavaScript method is used to convert a string to lowercase?",
+    "options": [
+      "toLower()",
+      "toLowerCase()",
+      "lower()",
+      "caseLower()"
+    ],
+    "answer": "toLowerCase()"
+  },
+  {
+    "question": "What is the purpose of the 'Object.keys()' method in JavaScript?",
+    "options": [
+      "To create a new object.",
+      "To retrieve an array of an object's enumerable property names.",
+      "To check if a variable is defined.",
+      "To perform a mathematical calculation."
+    ],
+    "answer": "To retrieve an array of an object's enumerable property names."
+  },
+  {
+    "question": "What is the purpose of the 'split' method in JavaScript?",
+    "options": [
+      "To combine two strings.",
+      "To convert a string to an array based on a specified delimiter.",
+      "To check if a variable is defined.",
+      "To perform arithmetic operations."
+    ],
+    "answer": "To convert a string to an array based on a specified delimiter."
+  },
+  {
+    "question": "What is 'scope' in JavaScript?",
+    "options": [
+      "A type of loop",
+      "The structure of an HTML page",
+      "The context in which variables are declared and accessed",
+      "A way to handle exceptions"
+    ],
+    "answer": "The context in which variables are declared and accessed"
+  },
+  {
+    "question": "What is 'ES6' in the context of JavaScript?",
+    "options": [
+      "A popular JavaScript library",
+      "The sixth version of the ECMAScript specification",
+      "A JavaScript framework",
+      "A type of HTML element"
+    ],
+    "answer": "The sixth version of the ECMAScript specification"
+  },
+  {
+    "question": "What does 'NaN' stand for in JavaScript?",
+    "options": [
+      "Not a Node",
+      "New and Notable",
+      "Not a Number",
+      "No Action Needed"
+    ],
+    "answer": "Not a Number"
+  },
+  {
+    "question": "What does 'JSON' stand for in JavaScript?",
+    "options": [
+      "JavaScript Object Notation",
+      "JavaScript Object Network",
+      "JavaScript On-demand Navigation",
+      "JavaScript Online Network"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "question": "What is the purpose of the 'addEventListener' method in JavaScript?",
+    "options": [
+      "To create new HTML elements",
+      "To add an event handler function to an HTML element",
+      "To change the background color of a web page",
+      "To fetch data from a server"
+    ],
+    "answer": "To add an event handler function to an HTML element"
+  },
+  {
+    "question": "Which JavaScript operator is used to check if a variable is of a specific data type?",
+    "options": [
+      "typeof",
+      "instanceof",
+      "is",
+      "typecheck"
+    ],
+    "answer": "typeof"
+  },
+  {
+    "question": "What is 'AJAX' in web development?",
+    "options": [
+      "A new web browser",
+      "A programming language",
+      "A technique for making asynchronous HTTP requests",
+      "An HTML element"
+    ],
+    "answer": "A technique for making asynchronous HTTP requests"
+  },
+  {
+    "question": "What is the purpose of the 'toFixed' method in JavaScript?",
+    "options": [
+      "To round a number to the nearest integer",
+      "To convert a string to a number",
+      "To check if a variable is defined",
+      "To fetch data from a server"
+    ],
+    "answer": "To round a number to the nearest integer"
+  },
+  {
+    "question": "What is the purpose of the 'break' statement in a JavaScript loop?",
+    "options": [
+      "To end the current iteration of the loop and continue with the next",
+      "To exit the entire loop",
+      "To pause the execution of the loop temporarily",
+      "To print a message to the console"
+    ],
+    "answer": "To exit the entire loop"
+  },
+  {
+    "question": "What is the purpose of the 'NaN' value in JavaScript?",
+    "options": [
+      "To represent a valid number",
+      "To indicate a division by zero",
+      "To indicate an invalid or unrepresentable value",
+      "To represent a null value"
+    ],
+    "answer": "To indicate an invalid or unrepresentable value"
+  },
+  {
+    "question": "What does 'ES6' refer to in JavaScript?",
+    "options": [
+      "A web development framework",
+      "A JavaScript library",
+      "The latest version of the ECMAScript specification",
+      "A type of HTML element"
+    ],
+    "answer": "The latest version of the ECMAScript specification"
+  },
+  {
+    "question": "What is the purpose of 'document.getElementById()' in JavaScript?",
+    "options": [
+      "To create a new HTML element",
+      "To retrieve an HTML element with a specific ID",
+      "To style a web page",
+      "To execute a function"
+    ],
+    "answer": "To retrieve an HTML element with a specific ID"
+  },
+  {
+    "question": "Which built-in JavaScript method is used to convert a string to uppercase?",
+    "options": [
+      "toUppercase()",
+      "uppercase()",
+      "toUpperCase()",
+      "upper()"
+    ],
+    "answer": "toUpperCase()"
+  },
+  {
+    "question": "What is the purpose of the 'switch' statement in JavaScript?",
+    "options": [
+      "To define a new function",
+      "To create a new object",
+      "To perform conditional branching based on a value",
+      "To execute code repeatedly"
+    ],
+    "answer": "To perform conditional branching based on a value"
+  },
+  {
+    "question": "What is 'TypeScript' in relation to JavaScript?",
+    "options": [
+      "A web development framework",
+      "A JavaScript library",
+      "A statically typed superset of JavaScript",
+      "A type of HTML element"
+    ],
+    "answer": "A statically typed superset of JavaScript"
+  },
+  {
+    "question": "What is the purpose of the 'push' method in JavaScript?",
+    "options": [
+      "To add elements to the beginning of an array",
+      "To remove elements from the end of an array",
+      "To add elements to the end of an array",
+      "To replace elements in an array"
+    ],
+    "answer": "To add elements to the end of an array"
+  },
+  {
+    "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+    "options": [
+      "To convert data types",
+      "To check the type of a value or variable",
+      "To define a new function",
+      "To create a new object"
+    ],
+    "answer": "To check the type of a value or variable"
+  },
+  {
+    "question": "What is the purpose of the 'forEach' method in JavaScript?",
+    "options": [
+      "To create a new array",
+      "To perform an action on each element of an array",
+      "To retrieve an element by its index",
+      "To check if a variable is defined"
+    ],
+    "answer": "To perform an action on each element of an array"
+  },
+  {
+    "question": "What is the result of the expression '10 + 5 * 2' in JavaScript?",
+    "options": [
+      "20",
+      "30",
+      "15",
+      "25"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "What is the purpose of the 'splice' method in JavaScript?",
+    "options": [
+      "To add elements to the end of an array",
+      "To remove elements from an array",
+      "To remove elements from the beginning of an array",
+      "To add and/or remove elements from an array"
+    ],
+    "answer": "To add and/or remove elements from an array"
+  },
+  {
+    "question": "What is the purpose of the 'typeof' operator when applied to 'null' in JavaScript?",
+    "options": [
+      "'object'",
+      "'null'",
+      "'undefined'",
+      "'number'"
+    ],
+    "answer": "'object'"
+  },
+  {
+    "question": "Which JavaScript method is used to convert a string to an array of substrings based on a specified delimiter?",
+    "options": [
+      "split()",
+      "concat()",
+      "join()",
+      "substring()"
+    ],
+    "answer": "split()"
+  },
+  {
+    "question": "What is the purpose of the 'arguments' object in a JavaScript function?",
+    "options": [
+      "To store the function's return value",
+      "To store the function's parameters as an array-like object",
+      "To store the function's local variables",
+      "To execute code asynchronously"
+    ],
+    "answer": "To store the function's parameters as an array-like object"
+  },
+  {
+    "question": "What is the result of the expression '5 + '5' in JavaScript?",
+    "options": [
+      "10",
+      "55",
+      "Error",
+      "NaN"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "What is 'TypeScript' in relation to JavaScript?",
+    "options": [
+      "A web development framework",
+      "A JavaScript library",
+      "A statically typed superset of JavaScript",
+      "A type of HTML element"
+    ],
+    "answer": "A statically typed superset of JavaScript"
+  },
+  {
+    "question": "What is the purpose of the 'push' method in JavaScript?",
+    "options": [
+      "To add elements to the beginning of an array",
+      "To remove elements from the end of an array",
+      "To add elements to the end of an array",
+      "To replace elements in an array"
+    ],
+    "answer": "To add elements to the end of an array"
+  }
+]
