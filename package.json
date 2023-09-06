@@ -17,7 +17,6 @@
     "vue": "latest"
   },
   "dependencies": {
-    "chart.js": "^4.4.0",
-    "pinia": "^2.1.6"
+    "chart.js": "^4.4.0"
   }
 }
