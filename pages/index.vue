@@ -5,7 +5,7 @@
             <h1 class="text-lg font-semibold">jQuiz</h1>
         </div>
     </header>
-    <main class="w-[90%] mt-28 mx-auto flex flex-col gap-2 lg:w-3/4">
+    <main class="w-[90%] mt-28 mb-4 mx-auto flex flex-col gap-2 lg:w-3/4">
         <h1>Welcome to jQuiz: A Quiz API for Developers</h1>
         <p>jQuiz is an easy-to-use, versatile Quiz API designed with developers in the simplest ways possible. Whether you're building an educational platform, a fun trivia game, or a knowledge assessment tool, jQuiz offers a good number of questions and answers on various aspects of programming  you to enable you create and customize quizzes effortlessly.</p>
 
@@ -36,15 +36,18 @@
             </p>
         </ul>
 
+        <h1>Have Questions?</h1>
+        <p>Contact us anytime on WhatsApp @<a href="https://wa.me/2348076488738" target="_blank">2348076488738</a> or Facebook @<a href="https://fb.me/mikelneonedwin">mikelneonedwin</a></p>
+
         <h1>DB Summary</h1>
         <p>For now, our available categories on the quiz are <span v-html="category"></span></p>
-        <canvas ref="cav"></canvas>
+        <div class="lg:w-[60%] mx-auto">
+            <canvas ref="cav"></canvas>
+        </div>
 
         <!-- <h1>Tryout our Quiz</h1> -->
         <!--  -->
 
-        <h1>Have Questions?</h1>
-        <p>Contact us anytime on WhatsApp @<a href="https://wa.me/2348076488738" target="_blank">2348076488738</a> or Facebook @<a href="https://fb.me/mikelneonedwin">mikelneonedwin</a></p>
     </main>
 </template>
 
