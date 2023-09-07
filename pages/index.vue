@@ -40,10 +40,22 @@
         <p>Contact us anytime on WhatsApp @<a href="https://wa.me/2348076488738" target="_blank">2348076488738</a> or Facebook @<a href="https://fb.me/mikelneonedwin">mikelneonedwin</a></p>
 
         <h1>DB Summary</h1>
-        <p>For now, our available categories on the quiz are <span v-html="category"></span></p>
+        <p>For now, our available categories on the quiz are <span class="text-sm" v-html="category"></span></p>
         <div class="lg:w-[80%] mx-auto">
             <canvas ref="cav"></canvas>
         </div>
+
+        <h1>Available Links</h1>
+        <p class="flex flex-col gap-2">
+            <table>
+                <tbody>
+                    <tr v-for="path in paths">
+                        <td>{{ path.name }}</td>
+                        <td>{{ path.link }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
 
         <!-- <h1>Tryout our Quiz</h1> -->
         <!--  -->
@@ -53,13 +65,20 @@
 
 <script setup>
 import { Chart } from 'chart.js/auto'
-const host = useCookie('host').value + '/api/';
+const host = 'https://' + useCookie('host').value + '/api/';
 const cav = ref(null);
 const { data } = await useFetch('/api/count');
 const category = computed(() => {
     const names = Object.keys(data.value).map(convert);
     return names.map(a => `<code>${a}</code>`).join(', ')
 })
+const paths = [];
+for(const key in data.value){
+    if(key == "all") continue;
+    const map = convert([key]);
+    paths.push({name: map, link: host + key });
+}
+paths.sort((a,b) => a.name > b.name ? 1 : b.name > a.name ? -1 : 0);
 if(process.client){
     onMounted(() => {
         const { value } = data;
@@ -90,7 +109,10 @@ function convert(lang){
         nodejs: 'Node.js',
         php: 'PHP',
         py: 'Python',
-        ts: 'TypeScript'
+        ts: 'TypeScript',
+        ruby: 'Ruby',
+        dart: 'Dart',
+        bash: 'Bash'
     })[lang]
 }
 </script>

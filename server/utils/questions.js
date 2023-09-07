@@ -8,6 +8,9 @@ import ts from './ts.json';
 import nodejs from './nodejs.json';
 import py from './py.json';
 import java from './java.json';
+import ruby from './ruby.json';
+import dart from './dart.json';
+import bash from './bash.json';
 
 Array.prototype.shuffle = function(){
     const array = this;
@@ -24,14 +27,12 @@ Array.prototype.shuffle = function(){
 
 
 export const questions = () => {
-    const temp = {js, css, html, php, jsx, json, ts, nodejs, py, java };
+    const temp = {js, css, html, php, jsx, json, ts, nodejs, py, java, ruby, dart, bash };
     for(const key in temp) temp[key] = temp[key].shuffle();
     return temp;
 };
 
  /*
- Ruby
- Dart
  Go
  Bash
  Fortran
