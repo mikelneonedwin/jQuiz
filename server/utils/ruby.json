@@ -1,0 +1,337 @@
+[
+  {
+    "question": "What is the primary use of Ruby?",
+    "options": ["Web development", "Data analysis", "Game development", "Mobile app development"],
+    "answer": "Web development"
+  },
+  {
+    "question": "Which symbol is used to define a comment in Ruby?",
+    "options": ["#", "//", "/*", "--"],
+    "answer": "#"
+  },
+  {
+    "question": "In Ruby, how do you define a variable?",
+    "options": ["var x = 5;", "int x = 5;", "$x = 5;", "x = 5;"],
+    "answer": "x = 5;"
+  },
+  {
+    "question": "What is the extension for Ruby script files?",
+    "options": [".r", ".rb", ".ru", ".ruby"],
+    "answer": ".rb"
+  },
+  {
+    "question": "Which Ruby method is used to output text to the console?",
+    "options": ["puts", "print", "echo", "console.log"],
+    "answer": "puts"
+  },
+  {
+    "question": "How do you define a class in Ruby?",
+    "options": ["define class", "classdef", "class", "new class"],
+    "answer": "class"
+  },
+  {
+    "question": "Which method is used to create a new instance of a class in Ruby?",
+    "options": ["new", "create", "instance", "instantiate"],
+    "answer": "new"
+  },
+  {
+    "question": "What does 'IRB' stand for in Ruby?",
+    "options": ["Interactive Ruby", "Integrated Ruby Builder", "Internet Ruby", "Internal Ruby"],
+    "answer": "Interactive Ruby"
+  },
+  {
+    "question": "How do you define a method in Ruby?",
+    "options": ["function", "def", "method", "define_method"],
+    "answer": "def"
+  },
+  {
+    "question": "What is the scope of a local variable in Ruby?",
+    "options": ["Global", "Class", "Instance", "Method"],
+    "answer": "Method"
+  },
+  {
+    "question": "Which operator is used for string concatenation in Ruby?",
+    "options": ["+", "&", "||", "concat"],
+    "answer": "+"
+  },
+  {
+    "question": "What is the keyword for defining an if statement in Ruby?",
+    "options": ["if", "condition", "check", "when"],
+    "answer": "if"
+  },
+  {
+    "question": "Which data type is used to store a sequence of characters in Ruby?",
+    "options": ["int", "float", "string", "array"],
+    "answer": "string"
+  },
+  {
+    "question": "What does 'nil' represent in Ruby?",
+    "options": ["Zero", "Nothing", "False", "Undefined"],
+    "answer": "Nothing"
+  },
+  {
+    "question": "How do you define a constant in Ruby?",
+    "options": ["const", "define_constant", "constant", "Const"],
+    "answer": "constant"
+  },
+  {
+    "question": "Which method is used to iterate over an array in Ruby?",
+    "options": ["foreach", "for_each", "each", "iterate"],
+    "answer": "each"
+  },
+  {
+    "question": "What is the purpose of 'attr_accessor' in Ruby classes?",
+    "options": ["Create class methods", "Define attributes", "Access instance variables", "Create constants"],
+    "answer": "Access instance variables"
+  },
+  {
+    "question": "Which Ruby operator is used for exponentiation?",
+    "options": ["^", "**", "*", "^="],
+    "answer": "**"
+  },
+  {
+    "question": "How do you check the length of an array in Ruby?",
+    "options": ["size", "length", "count", "elements"],
+    "answer": "length"
+  },
+  {
+    "question": "What is the symbol for 'not equal' in Ruby?",
+    "options": ["!=", "==", "<>", "><"],
+    "answer": "!="
+  },
+  {
+    "question": "Which method is used to remove the last element from an array in Ruby?",
+    "options": ["pop", "remove_last", "delete_last", "shift"],
+    "answer": "pop"
+  },
+  {
+    "question": "What is the Ruby convention for naming constants?",
+    "options": ["camelCase", "snake_case", "UPPERCASE", "PascalCase"],
+    "answer": "UPPERCASE"
+  },
+  {
+    "question": "What is a block in Ruby?",
+    "options": ["A comment", "A section of code", "An error message", "A data type"],
+    "answer": "A section of code"
+  },
+  {
+    "question": "How do you import external libraries in Ruby?",
+    "options": ["import", "require", "include", "load"],
+    "answer": "require"
+  },
+  {
+    "question": "Which operator is used for logical 'OR' in Ruby?",
+    "options": ["&", "&&", "|", "||"],
+    "answer": "||"
+  },
+  {
+    "question": "What is the Ruby convention for naming variables?",
+    "options": ["CamelCase", "snake_case", "UPPERCASE", "PascalCase"],
+    "answer": "snake_case"
+  },
+  {
+    "question": "How do you define a range in Ruby?",
+    "options": ["range", "..", "to", "..="],
+    "answer": ".."
+  },
+  {
+    "question": "Which method is used to sort an array in Ruby?",
+    "options": ["order", "sort", "arrange", "shuffle"],
+    "answer": "sort"
+  },
+  {
+    "question": "What is the purpose of 'self' in Ruby?",
+    "options": ["Reference the current instance", "Reference the superclass", "Reference a global variable", "Reference a constant"],
+    "answer": "Reference the current instance"
+  },
+  {
+    "question": "How do you define a module in Ruby?",
+    "options": ["module", "mod", "create_module", "def_module"],
+    "answer": "module"
+  },
+  {
+    "question": "What is the purpose of the 'case' statement in Ruby?",
+    "options": ["Define a class", "Handle exceptions", "Perform pattern matching", "Create an array"],
+    "answer": "Perform pattern matching"
+  },
+  {
+    "question": "What is the Ruby convention for naming methods?",
+    "options": ["CamelCase", "snake_case", "UPPERCASE", "PascalCase"],
+    "answer": "snake_case"
+  },
+  {
+    "question": "How do you define a hash (dictionary) in Ruby?",
+    "options": ["create_hash", "dict", "hash", "Hash.new"],
+    "answer": "Hash.new"
+  },
+  {
+    "question": "What is the output of '3.times { |i| puts i }' in Ruby?",
+    "options": ["0 1 2", "1 2 3", "2 4 6", "3 6 9"],
+    "answer": "0 1 2"
+  },
+  {
+    "question": "What is the purpose of 'include' in Ruby classes?",
+    "options": ["Include a file", "Extend class functionality", "Inherit from a superclass", "Import external libraries"],
+    "answer": "Extend class functionality"
+  },
+  {
+    "question": "How do you define an instance variable in Ruby?",
+    "options": ["@var", "$var", "var", "@@var"],
+    "answer": "@var"
+  },
+  {
+    "question": "What is the Ruby convention for naming instance variables?",
+    "options": ["CamelCase", "snake_case", "UPPERCASE", "PascalCase"],
+    "answer": "snake_case"
+  },
+  {
+    "question": "Which method is used to check if a key exists in a hash in Ruby?",
+    "options": ["key_exists?", "has_key?", "contains_key?", "check_key?"],
+    "answer": "has_key?"
+  },
+  {
+    "question": "What is the purpose of 'yield' in Ruby?",
+    "options": ["Stop program execution", "Output a value", "Call a block", "Define a constant"],
+    "answer": "Call a block"
+  },
+  {
+    "question": "How do you convert a string to an integer in Ruby?",
+    "options": ["string.to_int", "int(string)", "string_to_integer(string)", "string.to_i"],
+    "answer": "string.to_i"
+  },
+  {
+    "question": "What is the purpose of 'super' in Ruby?",
+    "options": ["Invoke the superclass method", "Define a subclass", "Stop program execution", "Create a superclass"],
+    "answer": "Invoke the superclass method"
+  },
+  {
+    "question": "Which method is used to remove an element from an array by value in Ruby?",
+    "options": ["remove", "delete", "erase", "exclude"],
+    "answer": "delete"
+  },
+  {
+    "question": "How do you check if an object is of a certain class in Ruby?",
+    "options": ["object_of_class?", "is_a?", "check_class?", "instance_of?"],
+    "answer": "is_a?"
+  },
+  {
+    "question": "What is the purpose of 'break' in Ruby loops?",
+    "options": ["Skip the current iteration", "End the loop", "Resume program execution", "Pause the loop"],
+    "answer": "End the loop"
+  },
+  {
+    "question": "How do you concatenate two arrays in Ruby?",
+    "options": ["join", "concat", "merge", "combine"],
+    "answer": "concat"
+  },
+  {
+    "question": "What is the purpose of 'next' in Ruby loops?",
+    "options": ["Skip the current iteration", "End the loop", "Resume program execution", "Pause the loop"],
+    "answer": "Skip the current iteration"
+  },
+  {
+    "question": "How do you check if a file exists in Ruby?",
+    "options": ["file_exists?", "exist_file?", "file_exist?", "File.exist?"],
+    "answer": "File.exist?"
+  },
+  {
+    "question": "What is the purpose of 'redo' in Ruby loops?",
+    "options": ["Skip the current iteration", "End the loop", "Retry the current iteration", "Resume program execution"],
+    "answer": "Retry the current iteration"
+  },
+  {
+    "question": "How do you convert a string to uppercase in Ruby?",
+    "options": ["to_upper", "upcase", "uppercase", "string.upper"],
+    "answer": "upcase"
+  },
+  {
+    "question": "What is the purpose of 'retry' in Ruby?",
+    "options": ["Skip the current iteration", "End the loop", "Retry the current iteration", "Resume program execution"],
+    "answer": "Retry the current iteration"
+  },
+  {
+    "question": "How do you open and read a file in Ruby?",
+    "options": ["open_file", "read_file", "File.read", "IO.open"],
+    "answer": "File.read"
+  },
+  {
+    "question": "What is the purpose of 'ensure' in Ruby exception handling?",
+    "options": ["Handle exceptions", "Define a block", "Always execute code", "Stop program execution"],
+    "answer": "Always execute code"
+  },
+  {
+    "question": "How do you raise a custom exception in Ruby?",
+    "options": ["throw", "raise", "exception", "error"],
+    "answer": "raise"
+  },
+  {
+    "question": "What is the purpose of 'rescue' in Ruby exception handling?",
+    "options": ["Throw an exception", "Handle exceptions", "Define a block", "Stop program execution"],
+    "answer": "Handle exceptions"
+  },
+  {
+    "question": "How do you define a lambda in Ruby?",
+    "options": ["define_lambda", "create_lambda", "lambda", "Lambda.new"],
+    "answer": "lambda"
+  },
+  {
+    "question": "What is the purpose of 'yield' in Ruby with a lambda?",
+    "options": ["Invoke the lambda", "Stop program execution", "Call a block", "Define a constant"],
+    "answer": "Invoke the lambda"
+  },
+  {
+    "question": "How do you define a symbol in Ruby?",
+    "options": [":symbol", "'symbol'", "symbol()", "Symbol.new"],
+    "answer": ":symbol"
+  },
+  {
+    "question": "What is the purpose of 'gsub' in Ruby?",
+    "options": ["Global substitution in a string", "Substring extraction", "Concatenate two strings", "Convert to uppercase"],
+    "answer": "Global substitution in a string"
+  },
+  {
+    "question": "How do you define a range in Ruby with exclusive end?",
+    "options": ["..", "...", "to", "range"],
+    "answer": "..."
+  },
+  {
+    "question": "What is the purpose of 'tap' in Ruby?",
+    "options": ["Stop program execution", "Chain methods", "Output a value", "Call a block"],
+    "answer": "Chain methods"
+  },
+  {
+    "question": "How do you check if a regular expression matches a string in Ruby?",
+    "options": ["regex_match", "match", "search", "find"],
+    "answer": "match"
+  },
+  {
+    "question": "What is the purpose of 'to_s' in Ruby?",
+    "options": ["Convert to string", "Convert to integer", "Convert to symbol", "Convert to array"],
+    "answer": "Convert to string"
+  },
+  {
+    "question": "How do you define a multi-line string (heredoc) in Ruby?",
+    "options": ["multi_line_string", "heredoc", "<<-STRING", "define_string"],
+    "answer": "<<-STRING"
+  },
+  {
+    "question": "What is the purpose of 'freeze' in Ruby?",
+    "options": ["Stop program execution", "Prevent object modification", "Free up memory", "Execute a block"],
+    "answer": "Prevent object modification"
+  },
+  {
+    "question": "How do you check if a value is included in an array in Ruby?",
+    "options": ["include?", "contains?", "in_array?", "has_value?"],
+    "answer": "include?"
+  },
+  {
+    "question": "What is the purpose of 'module_function' in Ruby modules?",
+    "options": ["Define a constant", "Create a class", "Make methods public", "Limit method accessibility"],
+    "answer": "Make methods public"
+  },
+  {
+    "question": "How do you convert a string to a symbol in Ruby?",
+    "options": ["to_symbol", "convert_to_symbol", "Symbol()", ":to_sym"],
+    "answer": ":to_sym"
+  }
+]

@@ -1,0 +1,408 @@
+[
+    {
+      "question": "What does 'Bash' stand for?",
+      "options": ["Bourne Again Shell", "Bash Shell", "Basic Shell", "Bash Script"],
+      "answer": "Bourne Again Shell"
+    },
+    {
+      "question": "Which command is used to display the current working directory in Bash?",
+      "options": ["pwd", "cd", "ls", "dir"],
+      "answer": "pwd"
+    },
+    {
+      "question": "What is the primary use of the 'echo' command in Bash?",
+      "options": ["Print environment variables", "Display the current date and time", "Output text to the terminal", "List files in a directory"],
+      "answer": "Output text to the terminal"
+    },
+    {
+      "question": "How do you comment a single line in a Bash script?",
+      "options": ["//", "#", "/* */", "--"],
+      "answer": "#"
+    },
+    {
+      "question": "Which operator is used for string concatenation in Bash?",
+      "options": [".", "+", "&", "||"],
+      "answer": "."
+    },
+    {
+      "question": "How do you assign a value to a variable in Bash?",
+      "options": ["x = 5", "int x = 5", "x := 5", "x=5"],
+      "answer": "x=5"
+    },
+    {
+      "question": "What is the purpose of the 'if' statement in Bash?",
+      "options": ["Define a loop", "Handle exceptions", "Perform conditional execution", "Create a function"],
+      "answer": "Perform conditional execution"
+    },
+    {
+      "question": "Which operator is used for numeric comparison in Bash?",
+      "options": ["==", "=", "!=", "<>"],
+      "answer": "=="
+    },
+    {
+      "question": "How do you read user input in a Bash script?",
+      "options": ["input()", "read", "gets", "stdin"],
+      "answer": "read"
+    },
+    {
+      "question": "What is the purpose of the 'for' loop in Bash?",
+      "options": ["Iterate over an array", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Iterate over an array"
+    },
+    {
+      "question": "How do you define a function in Bash?",
+      "options": ["function", "def", "func", "fn"],
+      "answer": "function"
+    },
+    {
+      "question": "What is the Bash equivalent of 'null' in other programming languages?",
+      "options": ["None", "nil", "null", "undefined"],
+      "answer": "null"
+    },
+    {
+      "question": "What is the purpose of 'break' in Bash loops?",
+      "options": ["Skip the current iteration", "End the loop", "Resume program execution", "Pause the loop"],
+      "answer": "End the loop"
+    },
+    {
+      "question": "Which operator is used for logical 'OR' in Bash?",
+      "options": ["&", "&&", "|", "||"],
+      "answer": "||"
+    },
+    {
+      "question": "How do you check the length of an array in Bash?",
+      "options": ["size", "length", "count", "${#array[@]}"],
+      "answer": "${#array[@]}"
+    },
+    {
+      "question": "What is the purpose of 'case' in Bash?",
+      "options": ["Define a class", "Handle exceptions", "Perform pattern matching", "Create an array"],
+      "answer": "Perform pattern matching"
+    },
+    {
+      "question": "How do you define a constant in Bash?",
+      "options": ["const", "define_const", "constant", "readonly"],
+      "answer": "readonly"
+    },
+    {
+      "question": "What is the Bash convention for naming constants?",
+      "options": ["camelCase", "snake_case", "UPPERCASE", "PascalCase"],
+      "answer": "UPPERCASE"
+    },
+    {
+      "question": "How do you redirect the standard output to a file in Bash?",
+      "options": [">", ">>", "<", ">&"],
+      "answer": ">"
+    },
+    {
+      "question": "What is the purpose of 'elif' in Bash?",
+      "options": ["Define a function", "Handle exceptions", "Perform conditional execution", "Create a class"],
+      "answer": "Perform conditional execution"
+    },
+    {
+      "question": "How do you check if a file exists in Bash?",
+      "options": ["file_exists?", "exist_file?", "file_exist?", "test -e"],
+      "answer": "test -e"
+    },
+    {
+      "question": "What is the purpose of 'continue' in Bash loops?",
+      "options": ["Skip the current iteration", "End the loop", "Resume program execution", "Pause the loop"],
+      "answer": "Skip the current iteration"
+    },
+    {
+      "question": "How do you check if a directory exists in Bash?",
+      "options": ["dir_exists?", "exist_dir?", "directory_exist?", "test -d"],
+      "answer": "test -d"
+    },
+    {
+      "question": "What is the purpose of 'source' in Bash?",
+      "options": ["Include a file", "Extend script functionality", "Inherit from a superclass", "Import external libraries"],
+      "answer": "Include a file"
+    },
+    {
+      "question": "How do you perform arithmetic operations in Bash?",
+      "options": ["calc", "math", "$((expression))", "arith"],
+      "answer": "$((expression))"
+    },
+    {
+      "question": "What is the purpose of 'while' in Bash?",
+      "options": ["Iterate over an array", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Perform conditional execution"
+    },
+    {
+      "question": "How do you check if a string is empty in Bash?",
+      "options": ["empty_string?", "string_empty?", "test -z", "is_empty()"],
+      "answer": "test -z"
+    },
+    {
+      "question": "What is the purpose of 'unset' in Bash?",
+      "options": ["Delete a file", "Remove an environment variable", "Clear a directory", "Exit the script"],
+      "answer": "Remove an environment variable"
+    },
+    {
+      "question": "How do you check if a command was successful in Bash?",
+      "options": ["command_success?", "success_command?", "$?", "command_exit_code()"],
+      "answer": "$?"
+    },
+    {
+      "question": "What is the Bash operator for the 'not equal' comparison?",
+      "options": ["!=", "==", "<>", "><"],
+      "answer": "!="
+    },
+    {
+      "question": "How do you declare an array in Bash?",
+      "options": ["declare array", "array()", "array[]", "myArray=()"],
+      "answer": "myArray=()"
+    },
+    {
+      "question": "What is the purpose of 'getopts' in Bash?",
+      "options": ["Parse command-line options", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Parse command-line options"
+    },
+    {
+      "question": "How do you declare an associative array in Bash?",
+      "options": ["declare associative_array", "associative_array()", "declare -A array", "array={}"],
+      "answer": "declare -A array"
+    },
+    {
+      "question": "What is the purpose of 'export' in Bash?",
+      "options": ["Export data to a file", "Set environment variables", "Import external libraries", "Create a function"],
+      "answer": "Set environment variables"
+    },
+    {
+      "question": "How do you perform floating-point arithmetic in Bash?",
+      "options": ["float_calc", "bc", "math", "arith"],
+      "answer": "bc"
+    },
+    {
+      "question": "What is the purpose of 'trap' in Bash?",
+      "options": ["Catch exceptions", "Handle signals", "Perform pattern matching", "Create a class"],
+      "answer": "Handle signals"
+    },
+    {
+      "question": "How do you compare strings in Bash for equality?",
+      "options": ["str_eq", "string_equal", "==", "="],
+      "answer": "=="
+    },
+    {
+      "question": "What is the purpose of 'shift' in Bash?",
+      "options": ["Shift arguments in a function", "Create a new function", "Perform conditional execution", "Exit the script"],
+      "answer": "Shift arguments in a function"
+    },
+    {
+      "question": "How do you perform bitwise operations in Bash?",
+      "options": ["bitwise", "bitwise_ops", "&|", "(( ))"],
+      "answer": "(( ))"
+    },
+    {
+      "question": "What is the Bash operator for logical 'AND'?",
+      "options": ["&", "&&", "|", "||"],
+      "answer": "&&"
+    },
+    {
+      "question": "How do you compare integers in Bash?",
+      "options": ["int_eq", "integer_equal", "-eq", "=="],
+      "answer": "-eq"
+    },
+    {
+      "question": "What is the purpose of 'dirname' in Bash?",
+      "options": ["Get the directory name of a file", "Get the file name of a directory", "Move to the parent directory", "Create a new directory"],
+      "answer": "Get the directory name of a file"
+    },
+    {
+      "question": "How do you get the length of a string in Bash?",
+      "options": ["length_string", "string_length", "${#string}", "str_len()"],
+      "answer": "${#string}"
+    },
+    {
+      "question": "What is the Bash convention for naming variables?",
+      "options": ["CamelCase", "snake_case", "UPPERCASE", "PascalCase"],
+      "answer": "snake_case"
+    },
+    {
+      "question": "How do you check if a file is executable in Bash?",
+      "options": ["file_executable?", "executable_file?", "test -x", "is_executable()"],
+      "answer": "test -x"
+    },
+    {
+      "question": "What is the purpose of 'basename' in Bash?",
+      "options": ["Get the base name of a file", "Get the file name of a directory", "Move to the parent directory", "Create a new directory"],
+      "answer": "Get the base name of a file"
+    },
+    {
+      "question": "How do you check if a variable is set in Bash?",
+      "options": ["var_set?", "set_var?", "test -n", "is_set()"],
+      "answer": "test -n"
+    },
+    {
+      "question": "What is the Bash operator for the 'less than' comparison?",
+      "options": ["<", "<=", ">", ">="],
+      "answer": "<"
+    },
+    {
+      "question": "How do you check if a file is a directory in Bash?",
+      "options": ["file_directory?", "directory_file?", "test -d", "is_directory()"],
+      "answer": "test -d"
+    },
+    {
+      "question": "What is the purpose of 'type' in Bash?",
+      "options": ["Display the type of a command", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Display the type of a command"
+    },
+    {
+      "question": "How do you perform logical NOT in Bash?",
+      "options": ["not", "!", "not()", "logical_not()"],
+      "answer": "!"
+    },
+    {
+      "question": "What is the purpose of 'eval' in Bash?",
+      "options": ["Evaluate a mathematical expression", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Evaluate a mathematical expression"
+    },
+    {
+      "question": "How do you compare integers in Bash for inequality?",
+      "options": ["int_neq", "integer_not_equal", "-ne", "!="],
+      "answer": "-ne"
+    },
+    {
+      "question": "What is the purpose of 'getopts' in Bash?",
+      "options": ["Parse command-line options", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Parse command-line options"
+    },
+    {
+      "question": "How do you check if a file is readable in Bash?",
+      "options": ["file_readable?", "readable_file?", "test -r", "is_readable()"],
+      "answer": "test -r"
+    },
+    {
+      "question": "What is the purpose of 'sleep' in Bash?",
+      "options": ["Sleep for a specified number of seconds", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Sleep for a specified number of seconds"
+    },
+    {
+      "question": "How do you check if a file is writable in Bash?",
+      "options": ["file_writable?", "writable_file?", "test -w", "is_writable()"],
+      "answer": "test -w"
+    },
+    {
+      "question": "What is the purpose of 'shift' in Bash?",
+      "options": ["Shift arguments in a function", "Create a new function", "Perform conditional execution", "Exit the script"],
+      "answer": "Shift arguments in a function"
+    },
+    {
+      "question": "How do you perform command substitution in Bash?",
+      "options": ["command_substitution", "substitute", "$()", "sub()"],
+      "answer": "$()"
+    },
+    {
+      "question": "What is the Bash operator for the 'greater than or equal to' comparison?",
+      "options": [">=", "<=", ">", "<"],
+      "answer": ">="
+    },
+    {
+      "question": "How do you concatenate strings in Bash?",
+      "options": ["concatenate", "str_concat", "${str1}${str2}", "str_cat()"],
+      "answer": "${str1}${str2}"
+    },
+    {
+      "question": "What is the purpose of 'history' in Bash?",
+      "options": ["Display command history", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Display command history"
+    },
+    {
+      "question": "How do you remove leading and trailing whitespace from a string in Bash?",
+      "options": ["trim", "strip", "ltrim_rtrim", "trim()"],
+      "answer": "trim"
+    },
+    {
+      "question": "What is the Bash operator for the 'less than or equal to' comparison?",
+      "options": ["<=", ">=", "<", ">"],
+      "answer": "<="
+    },
+    {
+      "question": "How do you split a string into an array in Bash?",
+      "options": ["split", "str_split", "IFS", "split()"],
+      "answer": "IFS"
+    },
+    {
+      "question": "What is the purpose of 'pushd' in Bash?",
+      "options": ["Change the working directory", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Change the working directory"
+    },
+    {
+      "question": "How do you declare a global variable in Bash?",
+      "options": ["global_var", "declare -g", "global()", "var()"],
+      "answer": "declare -g"
+    },
+    {
+      "question": "What is the purpose of 'popd' in Bash?",
+      "options": ["Return to the previous directory", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Return to the previous directory"
+    },
+    {
+      "question": "How do you convert a string to uppercase in Bash?",
+      "options": ["to_upper", "uppercase", "${string^^}", "toupper()"],
+      "answer": "${string^^}"
+    },
+    {
+      "question": "What is the purpose of 'declare' in Bash?",
+      "options": ["Declare variables and set attributes", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Declare variables and set attributes"
+    },
+    {
+      "question": "How do you convert a string to lowercase in Bash?",
+      "options": ["to_lower", "lowercase", "${string,,}", "tolower()"],
+      "answer": "${string,,}"
+    },
+    {
+      "question": "What is the Bash operator for file existence check?",
+      "options": ["file_exists?", "exist_file?", "test -e", "is_file_exists()"],
+      "answer": "test -e"
+    },
+    {
+      "question": "How do you check if a process is running in Bash?",
+      "options": ["process_running?", "running_process?", "ps", "is_process_running()"],
+      "answer": "ps"
+    },
+    {
+      "question": "What is the purpose of 'kill' in Bash?",
+      "options": ["Terminate a process", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Terminate a process"
+    },
+    {
+      "question": "How do you check if a port is open in Bash?",
+      "options": ["port_open?", "open_port?", "netstat", "is_port_open()"],
+      "answer": "netstat"
+    },
+    {
+      "question": "What is the Bash operator for numeric comparison?",
+      "options": ["==", "=", "!=", "<>"],
+      "answer": "=="
+    },
+    {
+      "question": "How do you calculate the length of an array in Bash?",
+      "options": ["array_length", "count_elements", "${#array[@]}", "array_len()"],
+      "answer": "${#array[@]}"
+    },
+    {
+      "question": "What is the purpose of 'wait' in Bash?",
+      "options": ["Wait for a process to finish", "Define a function", "Perform conditional execution", "Create a class"],
+      "answer": "Wait for a process to finish"
+    },
+    {
+      "question": "How do you append to a file in Bash?",
+      "options": ["append_file", ">>", "<", "append()"],
+      "answer": ">>"
+    },
+    {
+      "question": "What is the Bash operator for string comparison (less than or equal to)?",
+      "options": ["-le", "-ge", "-lt", "-gt"],
+      "answer": "-le"
+    },
+    {
+      "question": "How do you remove a file in Bash?",
+      "options": ["remove_file", "delete_file", "rm", "file_rm()"],
+      "answer": "rm"
+    }
+  ]
+  

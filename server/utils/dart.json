@@ -1,0 +1,308 @@
+[
+    {
+      "question": "What is the primary use of Dart?",
+      "options": ["Web development", "Data analysis", "Game development", "Mobile app development"],
+      "answer": "Mobile app development"
+    },
+    {
+      "question": "Which tool is used to compile Dart code into JavaScript?",
+      "options": ["dart2js", "DartScript", "DartCompile", "Dart2JsCompiler"],
+      "answer": "dart2js"
+    },
+    {
+      "question": "What is the extension for Dart source files?",
+      "options": [".dart", ".d", ".src", ".code"],
+      "answer": ".dart"
+    },
+    {
+      "question": "Which keyword is used to define a variable in Dart?",
+      "options": ["var", "int", "let", "define"],
+      "answer": "var"
+    },
+    {
+      "question": "How do you print output to the console in Dart?",
+      "options": ["console.log", "print", "write", "output"],
+      "answer": "print"
+    },
+    {
+      "question": "What is the entry point for a Dart application?",
+      "options": ["main.dart", "index.html", "app.js", "start.dart"],
+      "answer": "main.dart"
+    },
+    {
+      "question": "How do you define a function in Dart?",
+      "options": ["function", "func", "def", "void"],
+      "answer": "void"
+    },
+    {
+      "question": "Which data type represents a sequence of characters in Dart?",
+      "options": ["int", "float", "string", "array"],
+      "answer": "string"
+    },
+    {
+      "question": "What is the Dart equivalent of null in other languages?",
+      "options": ["None", "nil", "null", "undefined"],
+      "answer": "null"
+    },
+    {
+      "question": "How do you define a constant in Dart?",
+      "options": ["const", "define_const", "constant", "Const"],
+      "answer": "const"
+    },
+    {
+      "question": "Which keyword is used to create a new instance of a class in Dart?",
+      "options": ["new", "create", "instance", "instantiate"],
+      "answer": "new"
+    },
+    {
+      "question": "What does 'async' and 'await' do in Dart?",
+      "options": ["Define a class", "Handle exceptions", "Perform asynchronous operations", "Create an array"],
+      "answer": "Perform asynchronous operations"
+    },
+    {
+      "question": "How do you define a class in Dart?",
+      "options": ["define class", "classdef", "class", "new class"],
+      "answer": "class"
+    },
+    {
+      "question": "What is the purpose of the 'super' keyword in Dart?",
+      "options": ["Reference the superclass", "Define a subclass", "Stop program execution", "Create a superclass"],
+      "answer": "Reference the superclass"
+    },
+    {
+      "question": "What is the Dart operator for string concatenation?",
+      "options": ["+", "&", "||", "concat"],
+      "answer": "+"
+    },
+    {
+      "question": "How do you define an if statement in Dart?",
+      "options": ["if", "condition", "check", "when"],
+      "answer": "if"
+    },
+    {
+      "question": "What is the scope of a local variable in Dart?",
+      "options": ["Global", "Class", "Instance", "Function"],
+      "answer": "Function"
+    },
+    {
+      "question": "What is the Dart operator for the 'equals' comparison?",
+      "options": ["==", "=", "===", "eq"],
+      "answer": "=="
+    },
+    {
+      "question": "How do you define a list (array) in Dart?",
+      "options": ["create_list", "list", "List()", "Array()"],
+      "answer": "List()"
+    },
+    {
+      "question": "What is the purpose of 'is' in Dart?",
+      "options": ["Check if an object is of a certain type", "Create a new instance", "Define a constant", "Reference a superclass"],
+      "answer": "Check if an object is of a certain type"
+    },
+    {
+      "question": "How do you check the length of a list in Dart?",
+      "options": ["size", "length", "count", "elements"],
+      "answer": "length"
+    },
+    {
+      "question": "What is the keyword for defining a switch case in Dart?",
+      "options": ["if", "case", "switch", "when"],
+      "answer": "case"
+    },
+    {
+      "question": "Which data type represents a list of key-value pairs in Dart?",
+      "options": ["int", "float", "string", "map"],
+      "answer": "map"
+    },
+    {
+      "question": "What is the Dart convention for naming constants?",
+      "options": ["camelCase", "snake_case", "UPPERCASE", "PascalCase"],
+      "answer": "UPPERCASE"
+    },
+    {
+      "question": "What is a 'null-aware operator' in Dart?",
+      "options": ["Operator that handles null values", "Operator that is always null", "Operator for logical operations", "Operator for bitwise operations"],
+      "answer": "Operator that handles null values"
+    },
+    {
+      "question": "How do you import external libraries in Dart?",
+      "options": ["import", "require", "include", "load"],
+      "answer": "import"
+    },
+    {
+      "question": "What is the Dart operator for logical 'OR'?",
+      "options": ["&", "&&", "|", "||"],
+      "answer": "||"
+    },
+    {
+      "question": "What is the Dart convention for naming variables?",
+      "options": ["CamelCase", "snake_case", "UPPERCASE", "PascalCase"],
+      "answer": "camelCase"
+    },
+    {
+      "question": "How do you define a range of values in Dart?",
+      "options": ["range", "..", "to", "..="],
+      "answer": ".."
+    },
+    {
+      "question": "What is the purpose of 'sort' in Dart?",
+      "options": ["Sort a list", "Create a new list", "Shuffle a list", "Reverse a list"],
+      "answer": "Sort a list"
+    },
+    {
+      "question": "What is the Dart keyword for defining a default case in a switch statement?",
+      "options": ["default", "else", "case", "when"],
+      "answer": "default"
+    },
+    {
+      "question": "How do you define an anonymous function in Dart?",
+      "options": ["function", "func", "lambda", "() =>"],
+      "answer": "() =>"
+    },
+    {
+      "question": "What is the purpose of 'async' in Dart function declarations?",
+      "options": ["Define a class", "Indicate asynchronous functions", "Perform pattern matching", "Create an array"],
+      "answer": "Indicate asynchronous functions"
+    },
+    {
+      "question": "How do you define a set in Dart?",
+      "options": ["create_set", "set", "Set()", "HashSet()"],
+      "answer": "Set()"
+    },
+    {
+      "question": "What is the purpose of 'switch' in Dart?",
+      "options": ["Define a class", "Handle exceptions", "Perform pattern matching", "Create an array"],
+      "answer": "Perform pattern matching"
+    },
+    {
+      "question": "What is the Dart convention for naming functions?",
+      "options": ["CamelCase", "snake_case", "UPPERCASE", "PascalCase"],
+      "answer": "camelCase"
+    },
+    {
+      "question": "How do you define a map (dictionary) in Dart?",
+      "options": ["create_map", "map", "Map()", "HashMap()"],
+      "answer": "Map()"
+    },
+    {
+      "question": "What is the purpose of 'yield' in Dart?",
+      "options": ["Stop program execution", "Output a value", "Call a block", "Create a coroutine"],
+      "answer": "Output a value"
+    },
+    {
+      "question": "How do you convert a string to an integer in Dart?",
+      "options": ["string.to_int", "int(string)", "string_to_integer(string)", "int.parse(string)"],
+      "answer": "int.parse(string)"
+    },
+    {
+      "question": "What is the purpose of 'yield' in Dart with a generator function?",
+      "options": ["Stop program execution", "Output a value", "Call a block", "Create a coroutine"],
+      "answer": "Create a coroutine"
+    },
+    {
+      "question": "How do you define a symbol in Dart?",
+      "options": [":symbol", "'symbol'", "Symbol()", ":Symbol()"],
+      "answer": ":symbol"
+    },
+    {
+      "question": "What is the purpose of 'replace' in Dart?",
+      "options": ["Replace text in a string", "Substring extraction", "Concatenate two strings", "Convert to uppercase"],
+      "answer": "Replace text in a string"
+    },
+    {
+      "question": "How do you define a range in Dart with exclusive end?",
+      "options": ["..", "...", "to", "..="],
+      "answer": "..."
+    },
+    {
+      "question": "What is the purpose of 'join' in Dart?",
+      "options": ["Join list elements into a string", "Sort a list", "Shuffle a list", "Reverse a list"],
+      "answer": "Join list elements into a string"
+    },
+    {
+      "question": "How do you check if a list contains a specific element in Dart?",
+      "options": ["contains", "includes", "has", "check"],
+      "answer": "contains"
+    },
+    {
+      "question": "What is the purpose of 'catch' in Dart exception handling?",
+      "options": ["Throw an exception", "Handle exceptions", "Define a block", "Stop program execution"],
+      "answer": "Handle exceptions"
+    },
+    {
+      "question": "How do you define a lambda (anonymous function) in Dart?",
+      "options": ["define_lambda", "create_lambda", "lambda", "() =>"],
+      "answer": "() =>"
+    },
+    {
+      "question": "What is the purpose of 'forEach' in Dart?",
+      "options": ["Iterate over a list", "Sort a list", "Shuffle a list", "Reverse a list"],
+      "answer": "Iterate over a list"
+    },
+    {
+      "question": "How do you define a switch case with multiple values in Dart?",
+      "options": ["case 1, 2:", "case [1, 2]:", "case (1, 2):", "case {1, 2}:"],
+      "answer": "case 1, 2:"
+    },
+    {
+      "question": "What is the purpose of 'on' in Dart catch clauses?",
+      "options": ["Specify the exception type", "Catch all exceptions", "Define a block", "Stop program execution"],
+      "answer": "Specify the exception type"
+    },
+    {
+      "question": "How do you convert a string to lowercase in Dart?",
+      "options": ["to_lower", "lowercase", "string.toLowerCase()", "toLowerCase()"],
+      "answer": "toLowerCase()"
+    },
+    {
+      "question": "What is the purpose of 'rethrow' in Dart?",
+      "options": ["Throw a new exception", "Rethrow the current exception", "Handle exceptions", "Stop program execution"],
+      "answer": "Rethrow the current exception"
+    },
+    {
+      "question": "How do you read from a file in Dart?",
+      "options": ["read_file", "File.read", "File.readSync", "IO.open"],
+      "answer": "File.read"
+    },
+    {
+      "question": "What is the purpose of 'finally' in Dart exception handling?",
+      "options": ["Stop program execution", "Always execute code", "Handle exceptions", "Define a block"],
+      "answer": "Always execute code"
+    },
+    {
+      "question": "How do you throw a custom exception in Dart?",
+      "options": ["throw", "raise", "exception", "error"],
+      "answer": "throw"
+    },
+    {
+      "question": "What is the purpose of 'try' in Dart exception handling?",
+      "options": ["Throw an exception", "Handle exceptions", "Define a block", "Stop program execution"],
+      "answer": "Handle exceptions"
+    },
+    {
+      "question": "How do you define an enum in Dart?",
+      "options": ["enum", "define_enum", "create_enum", "Enum()"],
+      "answer": "enum"
+    },
+    {
+      "question": "What is the Dart operator for the 'not equal' comparison?",
+      "options": ["!=", "==", "<>", "><"],
+      "answer": "!="
+    },
+    {
+      "question": "How do you define a stream in Dart?",
+      "options": ["stream", "define_stream", "create_stream", "Stream()"],
+      "answer": "Stream()"
+    },
+    {
+      "question": "What is the purpose of 'async*' in Dart?",
+      "options": ["Define a class", "Handle exceptions", "Perform asynchronous operations", "Create an asynchronous generator"],
+      "answer": "Create an asynchronous generator"
+    },
+    {
+      "question": "How do you convert a string to uppercase in Dart?",
+      "options": ["to_upper", "uppercase", "string.toUpperCase()", "toUpperCase()"],
+      "answer": "toUpperCase()"
+    }
+  ]
+  
