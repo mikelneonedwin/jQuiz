@@ -1,4 +1,5 @@
 export default defineEventHandler((event) => {
+    setResponseHeader(event, 'Access-Control-Allow-Origin', '*');
     const { limit:x, lang } = getRouterParams(event);
     
     const limit = parseInt(x);

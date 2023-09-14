@@ -1,4 +1,5 @@
 export default defineEventHandler((event) => {
+    setResponseHeader(event, 'Access-Control-Allow-Origin', '*');
     const lang = getRouterParam(event, 'lang').toLowerCase();
     let res = questions()[lang];
     if(!res){
