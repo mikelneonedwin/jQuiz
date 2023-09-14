@@ -1,4 +1,4 @@
-export default defineEventHandler(() => {
+export default defineEventHandler((event) => {
     setResponseHeader(event, 'Access-Control-Allow-Origin', '*');
     const data = questions();
     for(const lang in data) data[lang] = data[lang].length;
