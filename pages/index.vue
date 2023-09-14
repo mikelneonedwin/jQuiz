@@ -7,10 +7,10 @@
     </header>
     <main class="w-[90%] mt-28 mb-4 mx-auto flex flex-col gap-2 lg:w-3/4">
         <h1>Welcome to jQuiz: A Quiz API for Developers</h1>
-        <p>jQuiz is an easy-to-use, versatile Quiz API designed with developers in the simplest ways possible. Whether you're building an educational platform, a fun trivia game, or a knowledge assessment tool, jQuiz offers a good number of questions and answers on various aspects of programming  you to enable you create and customize quizzes effortlessly.</p>
+        <p>jQuiz is an easy-to-use, versatile Quiz API designed with developers in the simplest ways possible. Whether you're building an educational platform, a fun trivia game, or a knowledge assessment tool, jQuiz offers a good number of questions and answers on various aspects of programming to enable you create and customize quizzes effortlessly.</p>
 
         <h1>How Does it Work?</h1>
-        <p>A simple GET request can be used to fetch data from our API either via a browser or curl. The data is first of all randomizes in the server before being sent back to the client, don't expect to receive the same arrangement of data each time you make a request</p> 
+        <p>A simple GET request can be used to fetch data from our API either via a browser or curl. The data is first of all randomized in the server before being sent back to the client, don't expect to receive the same arrangement of data each time you make a request.</p> 
         <ul class="mb-4">
             <li>Getting questions for a particular category</li>
             <p><b>URL:</b> {{ host }}{lang}
@@ -23,7 +23,7 @@
             <li>Setting a limit</li>
             <p><b>URL:</b> {{ host }}{lang}/{limit}
                 <br><b>Example:</b> {{ host }}js/10
-                <br>By default, the first example will return an array with all the questions we have in our database, if you want to specify a limit, you can do this by following the above example. The above would return an array of ten JavaScript questions
+                <br>By default, the first example will return an array with all the questions we have in our database, if you want to specify a limit, you can do this by following the above example. The above would return an array of ten JavaScript questions.
             </p>
             <li>Request Everything</li>
             <p><b>URL:</b> {{ host }}all
