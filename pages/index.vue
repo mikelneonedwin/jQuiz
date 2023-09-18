@@ -7,7 +7,7 @@
     </header>
     <main class="w-[90%] mt-28 mb-4 mx-auto flex flex-col gap-2 lg:w-3/4">
         <h1>Welcome to jQuiz: A Quiz API for Developers</h1>
-        <p>jQuiz is an easy-to-use, versatile Quiz API designed with developers in the simplest ways possible. Whether you're building an educational platform, a fun trivia game, or a knowledge assessment tool, jQuiz offers a good number of questions and answers on various aspects of programming to enable you create and customize quizzes effortlessly.</p>
+        <p>jQuiz is an easy-to-use, versatile Quiz API designed for developers to use in the simplest ways possible. Whether you're building an educational platform, a fun trivia game, or a knowledge assessment tool, jQuiz offers a good number of questions and answers on various aspects of programming to enable you create and customize quizzes effortlessly.</p>
 
         <h1>How Does it Work?</h1>
         <p>A simple GET request can be used to fetch data from our API either via a browser or curl. The data is first of all randomized in the server before being sent back to the client, don't expect to receive the same arrangement of data each time you make a request.</p> 
@@ -18,7 +18,7 @@
                 <br>The above would return a JSON array where each object has three properties: <code>options</code>, <code>question</code> and <code>answer</code>
                 <br><b>question:</b> The question itself
                 <br><b>options:</b> This is an array containing a list of possible answers to the question
-                <br><b>answer:</b>The actual answer to the question. Note: the value of answer is includes in the <code>options</code> property.
+                <br><b>answer:</b>The actual answer to the question. Note: the value of <code>answer</code> is included in the <code>options</code> property.
             </p>
             <li>Setting a limit</li>
             <p><b>URL:</b> {{ host }}{lang}/{limit}
@@ -27,7 +27,7 @@
             </p>
             <li>Request Everything</li>
             <p><b>URL:</b> {{ host }}all
-                <br>This will compact all our available data on available categories and send them back as a JSON Object. The value of each object is an array of the questions involved
+                <br>This will compact all our available data on available categories and send them back as a JSON Object. The value of each object is an array of the questions involved.
             </p>
             <li>Request Everything with a limit</li>
             <p><b>URL:</b> {{ host }}all/{limit}
@@ -58,7 +58,7 @@
         </p>
 
         <h1>Tryout our Quiz</h1>
-        <p>You can click <a href="/game" class="!text-blue-500 underline">here</a> to try out or very own Programming quiz game built using data from our API</p>
+        <p>Click <a href="/game" class="!text-blue-500 underline">here</a> to try out or very own Programming quiz game built using data from our API</p>
 
     </main>
 </template>
