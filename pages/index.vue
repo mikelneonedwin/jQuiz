@@ -57,8 +57,8 @@
             </table>
         </p>
 
-        <!-- <h1>Tryout our Quiz</h1> -->
-        <!--  -->
+        <h1>Tryout our Quiz</h1>
+        <p>You can click <a href="/game" class="!text-blue-500 underline">here</a> to try out or very own Programming quiz game built using data from our API</p>
 
     </main>
 </template>
